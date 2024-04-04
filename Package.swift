@@ -36,6 +36,10 @@ let package = Package(
                 .target(name: "OneSignalOutcomes"),
                 .target(name: "OneSignalCore"),
                 
+                .target(name: "OneSignalExtension"),
+                .target(name: "OneSignalInAppMessages"),
+                .target(name: "OneSignalOSCore"),
+                
                 
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
                 .product(name: "FacebookCore", package: "facebook-ios-sdk"),
@@ -63,7 +67,18 @@ let package = Package(
             name: "OneSignalOutcomes",
             path: "./Sources/OneSignalOutcomes.xcframework"),
         
- 
+        .binaryTarget(
+                    name: "OneSignalExtension",
+                    path: "./Sources/OneSignalExtension.xcframework"),
+            
+        .binaryTarget(
+                name: "OneSignalInAppMessages",
+                path: "./Sources/OneSignalInAppMessages.xcframework"),
+            
+        .binaryTarget(
+                name: "OneSignalOSCore",
+                path: "./Sources/OneSignalOSCore.xcframework"),
+            
         
         
         .binaryTarget(
