@@ -34,6 +34,7 @@ let package = Package(
                 .target(name: "OneSignalNotifications"),
                 .target(name: "OneSignalUser"),
                 .target(name: "OneSignalOutcomes"),
+                .target(name: "OneSignalСore"),
                 
                 
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
@@ -57,6 +58,12 @@ let package = Package(
         .binaryTarget(
             name: "OneSignalOutcomes",
             path: "./Sources/OneSignalOutcomes.xcframework"),
+        
+        .binaryTarget(
+            name: "OneSignalOutcomes",
+            path: "./Sources/OneSignalСore.xcframework"),
+        
+        
         
         .binaryTarget(
             name: "Predo",
