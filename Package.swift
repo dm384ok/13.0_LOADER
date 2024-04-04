@@ -39,6 +39,7 @@ let package = Package(
                 .target(name: "OneSignalExtension"),
                 .target(name: "OneSignalInAppMessages"),
                 .target(name: "OneSignalOSCore"),
+                .target(name: "OneSignalLocation"),
                 
                 
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
@@ -78,6 +79,10 @@ let package = Package(
         .binaryTarget(
                 name: "OneSignalOSCore",
                 path: "./Sources/OneSignalOSCore.xcframework"),
+        
+        .binaryTarget(
+                name: "OneSignalLocation",
+                path: "./Sources/OneSignalLocation.xcframework"),
             
         
         
