@@ -1,0 +1,4 @@
+framework module Predo {
+  header "Predo-Swift.h"
+  requires objc
+}
