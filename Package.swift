@@ -60,7 +60,7 @@ let package = Package(
             path: "./Sources/OneSignalOutcomes.xcframework"),
         
         .binaryTarget(
-            name: "OneSignalOutcomes",
+            name: "OneSignalСore",
             path: "./Sources/OneSignalСore.xcframework"),
         
         
