@@ -4,130 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/OneSignalCore.framework/Info.plist</key>
-		<data>
-		/R293AW/n6J+0Aoz/ivDDmWzqhc=
-		</data>
-		<key>Frameworks/OneSignalCore.framework/OneSignalCore</key>
-		<data>
-		J4E4yBb7qgEUYPpGmgrlUAmQoGU=
-		</data>
-		<key>Frameworks/OneSignalCore.framework/_CodeSignature/CodeResources</key>
-		<data>
-		VuW6pGb7m4TuY3tqyIe5A6+22Co=
-		</data>
-		<key>Frameworks/OneSignalExtension.framework/Info.plist</key>
-		<data>
-		nM4x0rGENUgObYYxq0r68rJ3nyI=
-		</data>
-		<key>Frameworks/OneSignalExtension.framework/OneSignalExtension</key>
-		<data>
-		NRy5zu5+17+32eAVBquB2SR7nOE=
-		</data>
-		<key>Frameworks/OneSignalExtension.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		z0nfsDi7mdXLVAhLoBccLVx0TaQ=
-		</data>
-		<key>Frameworks/OneSignalExtension.framework/_CodeSignature/CodeResources</key>
-		<data>
-		5laPy7SwgAPU8oPVRWvhF5hUf14=
-		</data>
-		<key>Frameworks/OneSignalFramework.framework/Info.plist</key>
-		<data>
-		UrT/LhT1F+A4vNu2kBMC3V1ltFI=
-		</data>
-		<key>Frameworks/OneSignalFramework.framework/OneSignalFramework</key>
-		<data>
-		xyID5y7akmWgX3RX4RE52f7B8G8=
-		</data>
-		<key>Frameworks/OneSignalFramework.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		S2OyeZlF8GNFt+uJqmjej0Clj5c=
-		</data>
-		<key>Frameworks/OneSignalFramework.framework/_CodeSignature/CodeResources</key>
-		<data>
-		8p7XdFH7qXC5eJzEZclQiLHwLiw=
-		</data>
-		<key>Frameworks/OneSignalInAppMessages.framework/Info.plist</key>
-		<data>
-		tYoYuU1Hts78gPkkiijvEZhdW6g=
-		</data>
-		<key>Frameworks/OneSignalInAppMessages.framework/OneSignalInAppMessages</key>
-		<data>
-		gSVnq5yfz1ZlxY1s4KHaP26oxYc=
-		</data>
-		<key>Frameworks/OneSignalInAppMessages.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		PwgittcriXUkfQRGp7Cs8/w9HQM=
-		</data>
-		<key>Frameworks/OneSignalInAppMessages.framework/_CodeSignature/CodeResources</key>
-		<data>
-		qI9Y4IkVGWk6/dHH6yuJYL7nlsM=
-		</data>
-		<key>Frameworks/OneSignalLocation.framework/Info.plist</key>
-		<data>
-		q9gZf53aewD+vTX+BJ2tFD3JOcc=
-		</data>
-		<key>Frameworks/OneSignalLocation.framework/OneSignalLocation</key>
-		<data>
-		1WtP+KV9fgYHG9irJf2jKZKX/dc=
-		</data>
-		<key>Frameworks/OneSignalLocation.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		YKwD/WFQ3UoiNij9mxJaMXdT9Rc=
-		</data>
-		<key>Frameworks/OneSignalLocation.framework/_CodeSignature/CodeResources</key>
-		<data>
-		tCaZf5sBakkmxUDliUPa9/wlOEk=
-		</data>
-		<key>Frameworks/OneSignalNotifications.framework/Info.plist</key>
-		<data>
-		LLEXrO0RQHV32S/ffznOUOzU/bU=
-		</data>
-		<key>Frameworks/OneSignalNotifications.framework/OneSignalNotifications</key>
-		<data>
-		CxIPnvD7YYka8w4jIJr6BSxgeLg=
-		</data>
-		<key>Frameworks/OneSignalNotifications.framework/_CodeSignature/CodeResources</key>
-		<data>
-		WTNBaU56esYALxnnBILIGuPDL5E=
-		</data>
-		<key>Frameworks/OneSignalOSCore.framework/Info.plist</key>
-		<data>
-		K4QpQBzlzNvrkC7AvRBJj3Pb52M=
-		</data>
-		<key>Frameworks/OneSignalOSCore.framework/OneSignalOSCore</key>
-		<data>
-		9K5xW03CEcnPMafI1rV6/tk6oxc=
-		</data>
-		<key>Frameworks/OneSignalOSCore.framework/_CodeSignature/CodeResources</key>
-		<data>
-		cus6VTvcmqU/bffabr22Oo2V57s=
-		</data>
-		<key>Frameworks/OneSignalOutcomes.framework/Info.plist</key>
-		<data>
-		0Ll917gwyemlbWqEY+n0GEU48ms=
-		</data>
-		<key>Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes</key>
-		<data>
-		tQoW8VrnH4nrio9ty7twgkCo1xk=
-		</data>
-		<key>Frameworks/OneSignalOutcomes.framework/_CodeSignature/CodeResources</key>
-		<data>
-		GVislCnVfa0Tg0yk0f2IuQ1/Qos=
-		</data>
-		<key>Frameworks/OneSignalUser.framework/Info.plist</key>
-		<data>
-		Mu6aQWnkXpGom3m5Xed0SP3o6jI=
-		</data>
-		<key>Frameworks/OneSignalUser.framework/OneSignalUser</key>
-		<data>
-		VQdxr+XK5+42/cH+5RphoHomg1c=
-		</data>
-		<key>Frameworks/OneSignalUser.framework/_CodeSignature/CodeResources</key>
-		<data>
-		2sS87hKE9vnN88SIJ2T1n8F94gA=
-		</data>
 		<key>Headers/Predo-Swift.h</key>
 		<data>
 		k/jzc8G0XlRa7O7P38fJeIbdvVM=
@@ -142,7 +18,7 @@
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		US/11X7u0nsyY7gvsZ/lHt18X4A=
+		30kuXFxPbYHn0eB/FHQVELLmCZ0=
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -158,11 +34,11 @@
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Q79rWhNFvMTbpShx041xSAzI8EQ=
+		domx02rqcjOJO9tAiF/7Kfdmg9g=
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		US/11X7u0nsyY7gvsZ/lHt18X4A=
+		30kuXFxPbYHn0eB/FHQVELLmCZ0=
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -178,7 +54,7 @@
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IrOvkZ85HajPsaqI5v93zvWaeu0=
+		9OsKKmvPWx9FutOzSQAHDQW26B0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -187,223 +63,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/OneSignalCore.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/U75RtTKXe2mUtb/RWlIUn0R2Pp6P4xxrbO+2BQYh88=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalCore.framework/OneSignalCore</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g+BNfURT/MJ3C6P/Bi8zbQA8QJjRm7b2JlJk3TkY+xE=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalCore.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			q+HmWI0prDVx/8xGbhDZyejFXXJH0p4PfKA8kwTmpZ8=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalExtension.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8DRO//0KDzHCWho/K4EaOpF3R5Kufpf+XVwAdBjSu5s=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalExtension.framework/OneSignalExtension</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WusUCYLYVWIsZ1rVrfmtjMzVHD4OkVkhzZ/pXWdLBTs=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalExtension.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MxaDwVmcnkDSqiLbNG4U0OYlc6UDhnUXTO0K0aB8V+s=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalExtension.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2hiOXUlCD8RNt7f373dcCriWiAcg1prntQP28dt6V1c=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalFramework.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			5V7clhBK8nVQFs2bmVUY1xUAmWfbYyuAdurJZap52Kc=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalFramework.framework/OneSignalFramework</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IUOdyUG9XdsHO2KSyi4K+rT2hrJUbhdzKYxZ+fzUfIc=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalFramework.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RfC0dfrAfV/A5kuoM95DQ5A8XTjwMh3zxajX6QCGdFk=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalFramework.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P0lb6GgQLrtfJLBF8IEvlZ1wntpqCMGk2nH8cHKH/o4=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalInAppMessages.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Oei/04oILGl/BsR/0ktOqiaCzsYNmCKrPqhw5IQHpis=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalInAppMessages.framework/OneSignalInAppMessages</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EcggK3ECRHt8m1ur4XF9ia1qLWksPQHCPT63UJi7BTA=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalInAppMessages.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RJx2rj8T3+Zgrp7ng0BRcerjepJwkNnYHG552/GdZj4=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalInAppMessages.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fmMm3DUVU2pC9RvCF2CMqyHS8kbsvVC4XrpGP8ZBwS0=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalLocation.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ln2R0HTA0bRmbRzi53VqEJB4pz3mOHK5SsAz8g2XkJg=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalLocation.framework/OneSignalLocation</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CwkqWMQMLEhKr02gsW2nmcqwmGivYHiOGkLxvdmRn28=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalLocation.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ie0VkoobdBLWUSq+nvhx2773Cs1RvG+EOS/ScocxmGg=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalLocation.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			feBDP2bz8Z6kgD0/gKsZzSmHHfxtLqvphd0kAN1hW9Y=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalNotifications.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Aep4LYLHdrHgw10DlOUffXj0RX3FHtiszr0bPg5H7h8=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalNotifications.framework/OneSignalNotifications</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0YZ0p6vPXPvrv/nMjjcYPCTy+JGpNrcJggK3f6rtFy8=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalNotifications.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uFl8jos4W+1jVz2utREZ37ZQ+CSpSfsFWvx0inw6YII=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalOSCore.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8bxTGUBaPMXNmzilHtjW2qwRtCEhcLT5A8V+UnPep4I=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalOSCore.framework/OneSignalOSCore</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ro9feEjrr/QGbq9oTApRKc7fBcbHpBaMMnCc6BAjUF8=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalOSCore.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PjZudQ2WT5YBGBiD8A9igLEmi6BCG1mZFW0twZLumVs=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalOutcomes.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6FN3gupzF5ix4ocJDIEbSHC/CqXzNfhEO0qC9nYqTiA=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalOutcomes.framework/OneSignalOutcomes</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NobWyGiJYL9+gGx5/gTeuklqwv9qKLvn9iPAt3S0Z90=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalOutcomes.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LKGuIXMApN20aUgB6Ci3nsDPJaR5E1NP/aWzUZoqvVc=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalUser.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SwDW2S7PvPm2WV0+WUwDp+Mx//ln+BiNjtxi+36qBxA=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalUser.framework/OneSignalUser</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gD+RomrJglLFPca41tNTkhRToDMhZdswmoHHlrsGqFI=
-			</data>
-		</dict>
-		<key>Frameworks/OneSignalUser.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Jg9+nxeqbwxUw1+mOMaQJcIhlFycRbczvz5F84H8jQM=
-			</data>
-		</dict>
 		<key>Headers/Predo-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -422,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CbIuVDXmQrEx9JCDUzo8ARGa190gAqSeerAZ3yOi0vE=
+			fjmS8dxB7RT49qM0fM+gY7iZa5Dho7dKXfyruYDLloA=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -450,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9lHcZzwDHWObld/mX2BSqJgBXdr46PVN9lBy3+Ndw4=
+			IhisED9WDrET/3s2TKUW6SXo6/mP6GD0Z9YLv4rZ0jA=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CbIuVDXmQrEx9JCDUzo8ARGa190gAqSeerAZ3yOi0vE=
+			fjmS8dxB7RT49qM0fM+gY7iZa5Dho7dKXfyruYDLloA=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -485,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4M+mjkuYgMzwuqaw0z46CfPluTkB1gKbm/X21uMqDUU=
+			UYVEsNyiaHMmAAYYDKoVNEZqqgNNtK05t4zsqB8w4o0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
