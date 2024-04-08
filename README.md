@@ -27,6 +27,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSUserTrackingUsageDescription : Select "Allow" for better experience. This identifier will be used to  order to functionalities and user engagement.
 
+
 #### Next step is enable **Push Notification** on Capability editor:
 
 ![enter image description here](https://i.imgur.com/bg1UMSz.png)
