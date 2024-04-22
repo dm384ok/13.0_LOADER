@@ -3098,35 +3098,42 @@
     {
       "filePath": "\/Users\/builder\/clone\/Predome.swift",
       "kind": "BooleanLiteral",
-      "offset": 8338,
+      "offset": 2420,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8359,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Predome.swift",
       "kind": "BooleanLiteral",
-      "offset": 9714,
+      "offset": 9735,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Predome.swift",
       "kind": "BooleanLiteral",
-      "offset": 12721,
+      "offset": 12778,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/Predome.swift",
       "kind": "StringLiteral",
-      "offset": 12682,
+      "offset": 12739,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/Predome.swift",
       "kind": "StringLiteral",
-      "offset": 20458,
+      "offset": 20515,
       "length": 10,
       "value": "\"Predo.APPSFWraps\""
     }
