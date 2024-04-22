@@ -1,0 +1,3134 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Disk",
+        "printedName": "Disk",
+        "children": [
+          {
+            "kind": "TypeDecl",
+            "name": "Directory",
+            "printedName": "Directory",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "documents",
+                "printedName": "documents",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.Directory.Type) -> Predo.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Predo.Disk.Directory",
+                        "usr": "s:5Predo4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Predo.Disk.Directory",
+                            "usr": "s:5Predo4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9DirectoryO9documentsyA2EmF",
+                "mangledName": "$s5Predo4DiskC9DirectoryO9documentsyA2EmF",
+                "moduleName": "Predo",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "caches",
+                "printedName": "caches",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.Directory.Type) -> Predo.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Predo.Disk.Directory",
+                        "usr": "s:5Predo4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Predo.Disk.Directory",
+                            "usr": "s:5Predo4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9DirectoryO6cachesyA2EmF",
+                "mangledName": "$s5Predo4DiskC9DirectoryO6cachesyA2EmF",
+                "moduleName": "Predo",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "applicationSupport",
+                "printedName": "applicationSupport",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.Directory.Type) -> Predo.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Predo.Disk.Directory",
+                        "usr": "s:5Predo4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Predo.Disk.Directory",
+                            "usr": "s:5Predo4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9DirectoryO18applicationSupportyA2EmF",
+                "mangledName": "$s5Predo4DiskC9DirectoryO18applicationSupportyA2EmF",
+                "moduleName": "Predo",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "temporary",
+                "printedName": "temporary",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.Directory.Type) -> Predo.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Directory",
+                        "printedName": "Predo.Disk.Directory",
+                        "usr": "s:5Predo4DiskC9DirectoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Predo.Disk.Directory",
+                            "usr": "s:5Predo4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9DirectoryO9temporaryyA2EmF",
+                "mangledName": "$s5Predo4DiskC9DirectoryO9temporaryyA2EmF",
+                "moduleName": "Predo",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "sharedContainer",
+                "printedName": "sharedContainer",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.Directory.Type) -> (Swift.String) -> Predo.Disk.Directory",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.String) -> Predo.Disk.Directory",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Predo.Disk.Directory",
+                            "usr": "s:5Predo4DiskC9DirectoryO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Tuple",
+                            "printedName": "(appGroupName: Swift.String)",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.Directory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Directory",
+                            "printedName": "Predo.Disk.Directory",
+                            "usr": "s:5Predo4DiskC9DirectoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9DirectoryO15sharedContaineryAESS_tcAEmF",
+                "mangledName": "$s5Predo4DiskC9DirectoryO15sharedContaineryAESS_tcAEmF",
+                "moduleName": "Predo",
+                "declAttributes": [
+                  "RawDocComment"
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "pathDescription",
+                "printedName": "pathDescription",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:5Predo4DiskC9DirectoryO15pathDescriptionSSvp",
+                "mangledName": "$s5Predo4DiskC9DirectoryO15pathDescriptionSSvp",
+                "moduleName": "Predo",
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:5Predo4DiskC9DirectoryO15pathDescriptionSSvg",
+                    "mangledName": "$s5Predo4DiskC9DirectoryO15pathDescriptionSSvg",
+                    "moduleName": "Predo",
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Function",
+                "name": "==",
+                "printedName": "==(_:_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Directory",
+                    "printedName": "Predo.Disk.Directory",
+                    "usr": "s:5Predo4DiskC9DirectoryO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Directory",
+                    "printedName": "Predo.Disk.Directory",
+                    "usr": "s:5Predo4DiskC9DirectoryO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:5Predo4DiskC9DirectoryO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s5Predo4DiskC9DirectoryO2eeoiySbAE_AEtFZ",
+                "moduleName": "Predo",
+                "static": true,
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:5Predo4DiskC9DirectoryO",
+            "mangledName": "$s5Predo4DiskC9DirectoryO",
+            "moduleName": "Predo",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "ErrorCode",
+            "printedName": "ErrorCode",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "noFileFound",
+                "printedName": "noFileFound",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.ErrorCode.Type) -> Predo.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Predo.Disk.ErrorCode",
+                            "usr": "s:5Predo4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9ErrorCodeO11noFileFoundyA2EmF",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO11noFileFoundyA2EmF",
+                "moduleName": "Predo"
+              },
+              {
+                "kind": "Var",
+                "name": "serialization",
+                "printedName": "serialization",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.ErrorCode.Type) -> Predo.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Predo.Disk.ErrorCode",
+                            "usr": "s:5Predo4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9ErrorCodeO13serializationyA2EmF",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO13serializationyA2EmF",
+                "moduleName": "Predo"
+              },
+              {
+                "kind": "Var",
+                "name": "deserialization",
+                "printedName": "deserialization",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.ErrorCode.Type) -> Predo.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Predo.Disk.ErrorCode",
+                            "usr": "s:5Predo4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9ErrorCodeO15deserializationyA2EmF",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO15deserializationyA2EmF",
+                "moduleName": "Predo"
+              },
+              {
+                "kind": "Var",
+                "name": "invalidFileName",
+                "printedName": "invalidFileName",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.ErrorCode.Type) -> Predo.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Predo.Disk.ErrorCode",
+                            "usr": "s:5Predo4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9ErrorCodeO15invalidFileNameyA2EmF",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO15invalidFileNameyA2EmF",
+                "moduleName": "Predo"
+              },
+              {
+                "kind": "Var",
+                "name": "couldNotAccessTemporaryDirectory",
+                "printedName": "couldNotAccessTemporaryDirectory",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.ErrorCode.Type) -> Predo.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Predo.Disk.ErrorCode",
+                            "usr": "s:5Predo4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9ErrorCodeO32couldNotAccessTemporaryDirectoryyA2EmF",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO32couldNotAccessTemporaryDirectoryyA2EmF",
+                "moduleName": "Predo"
+              },
+              {
+                "kind": "Var",
+                "name": "couldNotAccessUserDomainMask",
+                "printedName": "couldNotAccessUserDomainMask",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.ErrorCode.Type) -> Predo.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Predo.Disk.ErrorCode",
+                            "usr": "s:5Predo4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9ErrorCodeO28couldNotAccessUserDomainMaskyA2EmF",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO28couldNotAccessUserDomainMaskyA2EmF",
+                "moduleName": "Predo"
+              },
+              {
+                "kind": "Var",
+                "name": "couldNotAccessSharedContainer",
+                "printedName": "couldNotAccessSharedContainer",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Predo.Disk.ErrorCode.Type) -> Predo.Disk.ErrorCode",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "Predo.Disk.ErrorCode.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ErrorCode",
+                            "printedName": "Predo.Disk.ErrorCode",
+                            "usr": "s:5Predo4DiskC9ErrorCodeO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:5Predo4DiskC9ErrorCodeO29couldNotAccessSharedContaineryA2EmF",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO29couldNotAccessSharedContaineryA2EmF",
+                "moduleName": "Predo"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Predo.Disk.ErrorCode?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ErrorCode",
+                        "printedName": "Predo.Disk.ErrorCode",
+                        "usr": "s:5Predo4DiskC9ErrorCodeO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:5Predo4DiskC9ErrorCodeO8rawValueAESgSi_tcfc",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO8rawValueAESgSi_tcfc",
+                "moduleName": "Predo",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:5Predo4DiskC9ErrorCodeO8rawValueSivp",
+                "mangledName": "$s5Predo4DiskC9ErrorCodeO8rawValueSivp",
+                "moduleName": "Predo",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:5Predo4DiskC9ErrorCodeO8rawValueSivg",
+                    "mangledName": "$s5Predo4DiskC9ErrorCodeO8rawValueSivg",
+                    "moduleName": "Predo",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:5Predo4DiskC9ErrorCodeO",
+            "mangledName": "$s5Predo4DiskC9ErrorCodeO",
+            "moduleName": "Predo",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "enumRawTypeName": "Int",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "errorDomain",
+            "printedName": "errorDomain",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Predo4DiskC11errorDomainSSvpZ",
+            "mangledName": "$s5Predo4DiskC11errorDomainSSvpZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Predo4DiskC11errorDomainSSvgZ",
+                "mangledName": "$s5Predo4DiskC11errorDomainSSvgZ",
+                "moduleName": "Predo",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:encoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONEncoder",
+                "printedName": "Foundation.JSONEncoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONEncoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC4save_2to2as7encoderyx_AC9DirectoryOSS10Foundation11JSONEncoderCtKSERzlFZ",
+            "mangledName": "$s5Predo4DiskC4save_2to2as7encoderyx_AC9DirectoryOSS10Foundation11JSONEncoderCtKSERzlFZ",
+            "moduleName": "Predo",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Encodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:decoder:encoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONDecoder",
+                "printedName": "Foundation.JSONDecoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONDecoderC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONEncoder",
+                "printedName": "Foundation.JSONEncoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONEncoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6append_2to2in7decoder7encoderyx_SSAC9DirectoryO10Foundation11JSONDecoderCAK11JSONEncoderCtKSeRzSERzlFZ",
+            "mangledName": "$s5Predo4DiskC6append_2to2in7decoder7encoderyx_SSAC9DirectoryO10Foundation11JSONDecoderCAK11JSONEncoderCtKSeRzSERzlFZ",
+            "moduleName": "Predo",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:decoder:encoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[τ_0_0]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONDecoder",
+                "printedName": "Foundation.JSONDecoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONDecoderC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONEncoder",
+                "printedName": "Foundation.JSONEncoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONEncoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6append_2to2in7decoder7encoderySayxG_SSAC9DirectoryO10Foundation11JSONDecoderCAL11JSONEncoderCtKSeRzSERzlFZ",
+            "mangledName": "$s5Predo4DiskC6append_2to2in7decoder7encoderySayxG_SSAC9DirectoryO10Foundation11JSONDecoderCAL11JSONEncoderCtKSeRzSERzlFZ",
+            "moduleName": "Predo",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable, τ_0_0 : Swift.Encodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable, T : Swift.Encodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:decoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "τ_0_0.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONDecoder",
+                "printedName": "Foundation.JSONDecoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONDecoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC8retrieve_4from2as7decoderxSS_AC9DirectoryOxm10Foundation11JSONDecoderCtKSeRzlFZ",
+            "mangledName": "$s5Predo4DiskC8retrieve_4from2as7decoderxSS_AC9DirectoryOxm10Foundation11JSONDecoderCtKSeRzlFZ",
+            "moduleName": "Predo",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable>",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC4save_2to2asySaySo7UIImageCG_AC9DirectoryOSStKFZ",
+            "mangledName": "$s5Predo4DiskC4save_2to2asySaySo7UIImageCG_AC9DirectoryOSStKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6append_2to2inySo7UIImageC_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC6append_2to2inySo7UIImageC_SSAC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6append_2to2inySaySo7UIImageCG_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC6append_2to2inySaySo7UIImageCG_SSAC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "[UIKit.UIImage].Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UIKit.UIImage]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImage",
+                        "printedName": "UIKit.UIImage",
+                        "usr": "c:objc(cs)UIImage"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC8retrieve_4from2asSaySo7UIImageCGSS_AC9DirectoryOAImtKFZ",
+            "mangledName": "$s5Predo4DiskC8retrieve_4from2asSaySo7UIImageCGSS_AC9DirectoryOAImtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC4save_2to2asy10Foundation4DataV_AC9DirectoryOSStKFZ",
+            "mangledName": "$s5Predo4DiskC4save_2to2asy10Foundation4DataV_AC9DirectoryOSStKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "Foundation.Data.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC8retrieve_4from2as10Foundation4DataVSS_AC9DirectoryOAImtKFZ",
+            "mangledName": "$s5Predo4DiskC8retrieve_4from2as10Foundation4DataVSS_AC9DirectoryOAImtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getURL",
+            "printedName": "getURL(for:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6getURL3for2in10Foundation0D0VSSSg_AC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC6getURL3for2in10Foundation0D0VSSSg_AC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "deprecated": true,
+            "declAttributes": [
+              "Final",
+              "Available",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "url",
+            "printedName": "url(for:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC3url3for2in10Foundation3URLVSSSg_AC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC3url3for2in10Foundation3URLVSSSg_AC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "clear",
+            "printedName": "clear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC5clearyyAC9DirectoryOKFZ",
+            "mangledName": "$s5Predo4DiskC5clearyyAC9DirectoryOKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "remove",
+            "printedName": "remove(_:from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6remove_4fromySS_AC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC6remove_4fromySS_AC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "remove",
+            "printedName": "remove(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6removeyy10Foundation3URLVKFZ",
+            "mangledName": "$s5Predo4DiskC6removeyy10Foundation3URLVKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "exists",
+            "printedName": "exists(_:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6exists_2inSbSS_AC9DirectoryOtFZ",
+            "mangledName": "$s5Predo4DiskC6exists_2inSbSS_AC9DirectoryOtFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "exists",
+            "printedName": "exists(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6existsySb10Foundation3URLVFZ",
+            "mangledName": "$s5Predo4DiskC6existsySb10Foundation3URLVFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doNotBackup",
+            "printedName": "doNotBackup(_:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC11doNotBackup_2inySS_AC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC11doNotBackup_2inySS_AC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "doNotBackup",
+            "printedName": "doNotBackup(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC11doNotBackupyy10Foundation3URLVKFZ",
+            "mangledName": "$s5Predo4DiskC11doNotBackupyy10Foundation3URLVKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "backup",
+            "printedName": "backup(_:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6backup_2inySS_AC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC6backup_2inySS_AC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "backup",
+            "printedName": "backup(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6backupyy10Foundation3URLVKFZ",
+            "mangledName": "$s5Predo4DiskC6backupyy10Foundation3URLVKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "move",
+            "printedName": "move(_:in:to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC4move_2in2toySS_AC9DirectoryOAHtKFZ",
+            "mangledName": "$s5Predo4DiskC4move_2in2toySS_AC9DirectoryOAHtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "move",
+            "printedName": "move(_:to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC4move_2toy10Foundation3URLV_AHtKFZ",
+            "mangledName": "$s5Predo4DiskC4move_2toy10Foundation3URLV_AHtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "rename",
+            "printedName": "rename(_:in:to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6rename_2in2toySS_AC9DirectoryOSStKFZ",
+            "mangledName": "$s5Predo4DiskC6rename_2in2toySS_AC9DirectoryOSStKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isFolder",
+            "printedName": "isFolder(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC8isFolderySb10Foundation3URLVFZ",
+            "mangledName": "$s5Predo4DiskC8isFolderySb10Foundation3URLVFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC4save_2to2asySo7UIImageC_AC9DirectoryOSStKFZ",
+            "mangledName": "$s5Predo4DiskC4save_2to2asySo7UIImageC_AC9DirectoryOSStKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "UIKit.UIImage.Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC8retrieve_4from2asSo7UIImageCSS_AC9DirectoryOAHmtKFZ",
+            "mangledName": "$s5Predo4DiskC8retrieve_4from2asSo7UIImageCSS_AC9DirectoryOAHmtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "totalCapacity",
+            "printedName": "totalCapacity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Predo4DiskC13totalCapacitySiSgvpZ",
+            "mangledName": "$s5Predo4DiskC13totalCapacitySiSgvpZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Predo4DiskC13totalCapacitySiSgvgZ",
+                "mangledName": "$s5Predo4DiskC13totalCapacitySiSgvgZ",
+                "moduleName": "Predo",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "availableCapacity",
+            "printedName": "availableCapacity",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Predo4DiskC17availableCapacitySiSgvpZ",
+            "mangledName": "$s5Predo4DiskC17availableCapacitySiSgvpZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Predo4DiskC17availableCapacitySiSgvgZ",
+                "mangledName": "$s5Predo4DiskC17availableCapacitySiSgvgZ",
+                "moduleName": "Predo",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "availableCapacityForImportantUsage",
+            "printedName": "availableCapacityForImportantUsage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Predo4DiskC34availableCapacityForImportantUsageSiSgvpZ",
+            "mangledName": "$s5Predo4DiskC34availableCapacityForImportantUsageSiSgvpZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Predo4DiskC34availableCapacityForImportantUsageSiSgvgZ",
+                "mangledName": "$s5Predo4DiskC34availableCapacityForImportantUsageSiSgvgZ",
+                "moduleName": "Predo",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "availableCapacityForOpportunisticUsage",
+            "printedName": "availableCapacityForOpportunisticUsage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Predo4DiskC38availableCapacityForOpportunisticUsageSiSgvpZ",
+            "mangledName": "$s5Predo4DiskC38availableCapacityForOpportunisticUsageSiSgvpZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Predo4DiskC38availableCapacityForOpportunisticUsageSiSgvgZ",
+                "mangledName": "$s5Predo4DiskC38availableCapacityForOpportunisticUsageSiSgvgZ",
+                "moduleName": "Predo",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "save",
+            "printedName": "save(_:to:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Foundation.Data]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC4save_2to2asySay10Foundation4DataVG_AC9DirectoryOSStKFZ",
+            "mangledName": "$s5Predo4DiskC4save_2to2asySay10Foundation4DataVG_AC9DirectoryOSStKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6append_2to2iny10Foundation4DataV_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC6append_2to2iny10Foundation4DataV_SSAC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "append",
+            "printedName": "append(_:to:in:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Foundation.Data]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC6append_2to2inySay10Foundation4DataVG_SSAC9DirectoryOtKFZ",
+            "mangledName": "$s5Predo4DiskC6append_2to2inySay10Foundation4DataVG_SSAC9DirectoryOtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "retrieve",
+            "printedName": "retrieve(_:from:as:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[Foundation.Data]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Directory",
+                "printedName": "Predo.Disk.Directory",
+                "usr": "s:5Predo4DiskC9DirectoryO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Metatype",
+                "printedName": "[Foundation.Data].Type",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Foundation.Data]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Data",
+                        "printedName": "Foundation.Data",
+                        "usr": "s:10Foundation4DataV"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo4DiskC8retrieve_4from2asSay10Foundation4DataVGSS_AC9DirectoryOAJmtKFZ",
+            "mangledName": "$s5Predo4DiskC8retrieve_4from2asSay10Foundation4DataVGSS_AC9DirectoryOAJmtKFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:5Predo4DiskC",
+        "mangledName": "$s5Predo4DiskC",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreAudioTypes",
+        "printedName": "CoreAudioTypes",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "AppsFlyerLib",
+        "printedName": "AppsFlyerLib",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreAudioTypes",
+        "printedName": "CoreAudioTypes",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "FlagsmithClient",
+        "printedName": "FlagsmithClient",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "FBSDKCoreKit",
+        "printedName": "FBSDKCoreKit",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalFramework",
+        "printedName": "OneSignalFramework",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "OneSignalNotifications",
+        "printedName": "OneSignalNotifications",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Predome",
+        "printedName": "Predome",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "customKeys",
+            "printedName": "customKeys",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@Predo@objc(cs)Predome(py)customKeys",
+            "mangledName": "$s5Predo7PredomeC10customKeysSDyS2SGvp",
+            "moduleName": "Predo",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Predo@objc(cs)Predome(im)customKeys",
+                "mangledName": "$s5Predo7PredomeC10customKeysSDyS2SGvg",
+                "moduleName": "Predo",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@Predo@objc(cs)Predome(im)setCustomKeys:",
+                "mangledName": "$s5Predo7PredomeC10customKeysSDyS2SGvs",
+                "moduleName": "Predo",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Predo7PredomeC10customKeysSDyS2SGvM",
+                "mangledName": "$s5Predo7PredomeC10customKeysSDyS2SGvM",
+                "moduleName": "Predo",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "startik",
+            "printedName": "startik()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Predo@objc(cs)Predome(cm)startik",
+            "mangledName": "$s5Predo7PredomeC7startikyyFZ",
+            "moduleName": "Predo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "vkluchit",
+            "printedName": "vkluchit()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Predo7PredomeC8vkluchityyF",
+            "mangledName": "$s5Predo7PredomeC8vkluchityyF",
+            "moduleName": "Predo",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Predome",
+                "printedName": "Predo.Predome",
+                "usr": "c:@M@Predo@objc(cs)Predome"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@Predo@objc(cs)Predome(im)init",
+            "mangledName": "$s5Predo7PredomeCACycfc",
+            "moduleName": "Predo",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Predo@objc(cs)Predome",
+        "mangledName": "$s5Predo7PredomeC",
+        "moduleName": "Predo",
+        "objc_name": "Predome",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Predo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Predo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1255,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1286,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1319,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1352,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1402,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1448,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1495,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1255,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1286,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1319,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1352,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1402,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1448,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1495,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1255,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1286,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1319,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1352,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1402,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1448,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1495,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Sources\/Disk+Errors.swift",
+      "kind": "StringLiteral",
+      "offset": 1544,
+      "length": 17,
+      "value": "\"DiskErrorDomain\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "Dictionary",
+      "offset": 491,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "StringLiteral",
+      "offset": 1807,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2001,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2073,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8338,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9714,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12721,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "StringLiteral",
+      "offset": 12682,
+      "length": 16,
+      "value": "\"ReviewIsShowed\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/Predome.swift",
+      "kind": "StringLiteral",
+      "offset": 20458,
+      "length": 10,
+      "value": "\"Predo.APPSFWraps\""
+    }
+  ]
+}
