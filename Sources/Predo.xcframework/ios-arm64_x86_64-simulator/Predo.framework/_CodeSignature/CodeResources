@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Predo-Swift.h</key>
 		<data>
-		k/jzc8G0XlRa7O7P38fJeIbdvVM=
+		abtAtxTw+4dVQFaLilSvDfnaR4Q=
 		</data>
 		<key>Headers/Torba.h</key>
 		<data>
@@ -18,43 +18,43 @@
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		4qmiOzA8bX02MqBR5yCsD1PhGWk=
+		2Kjl1kFYINUxFfUFm4D9BXf54o8=
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		VXOyLi4+OqgSnQp9GhVkxEKIcSo=
+		DidjGerD+yqLxMWrVJzgDRVn8Pc=
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		A9GnTBdRpFLvq3glmuBxO/GoK+A=
+		wD15Ad2+hllKKNFn/237PYG6OfE=
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VXOyLi4+OqgSnQp9GhVkxEKIcSo=
+		DidjGerD+yqLxMWrVJzgDRVn8Pc=
 		</data>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		m+ORxG1bJfXxClxUMn9cSMnXa4E=
+		B5xf0XUPsHd4pjwe3uNTJyvFzOw=
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		4qmiOzA8bX02MqBR5yCsD1PhGWk=
+		2Kjl1kFYINUxFfUFm4D9BXf54o8=
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		RgKXgie8EShnnZ6rQ6ejhYaLaBY=
+		4kdDN/tmKW+iimSRIf8f+l+jHP0=
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		PQ4kQWFHUYirSYriYTILzbs5lww=
+		kzPhHjXEBUkqCcWsnovSy9miW48=
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RgKXgie8EShnnZ6rQ6ejhYaLaBY=
+		4kdDN/tmKW+iimSRIf8f+l+jHP0=
 		</data>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iw1WYjsGGFo7bc2aOrX2yIHMSxY=
+		sdkf2XGxLi1dNEvcq01HyPnU+ss=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cF8U3xcmygRiNo9YXwkzg7sNa6s2Ydm/o3m2EV4WOoM=
+			f1ngAbklEnU5pRV4v1klbFvsWxhmXHE2lSU0btdRC4c=
 			</data>
 		</dict>
 		<key>Headers/Torba.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tY9uvr0QqrBDTt4J5AEJ9zeSvQjtG3SRVtXS98NcTW4=
+			n1aKVa+pL+Af9ehq5nx7hvUhR+aeAJsbcKR+oivEq/U=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/djTnyQM3c93qDzpsOr7jQ3RwKOLVLkC8p9SYMQrqas=
+			bfDS8HXDwBbhxWHZfmJE1sXGPqLMWcF8OwzrTSyLDNI=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			26DKcisuv0tWknagSmrTsdUJ9NsVNnt+yUe0v7HV5HM=
+			gwrURVAgwYT4TZf5zqa/taPCfW3FrMPVwCYOqmXlgPY=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/djTnyQM3c93qDzpsOr7jQ3RwKOLVLkC8p9SYMQrqas=
+			bfDS8HXDwBbhxWHZfmJE1sXGPqLMWcF8OwzrTSyLDNI=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iV50rNeYz2sOItK+azRocU2Nw4Hyh0ZG185v1gIAzGw=
+			Q2Gp5NG8Uyk5qozYFxMcz4IBp7VBenUBbtcWmH8byGw=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tY9uvr0QqrBDTt4J5AEJ9zeSvQjtG3SRVtXS98NcTW4=
+			n1aKVa+pL+Af9ehq5nx7hvUhR+aeAJsbcKR+oivEq/U=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AVt80jn+RLEV7OycBcErCTx5COvK23cboiuyVKg0ZYw=
+			7kEBlOcq1CHcaYURbr+DF+qDKWM+VIG63VRntW15cPY=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1x6F5FBjoXJgcTIxW/4q2BGJ7ZmvsLxD8342MrAUS5k=
+			Dd5941SwW46yDH0jFMGf29KuQHzmIqKm+kcC1dWBad8=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AVt80jn+RLEV7OycBcErCTx5COvK23cboiuyVKg0ZYw=
+			7kEBlOcq1CHcaYURbr+DF+qDKWM+VIG63VRntW15cPY=
 			</data>
 		</dict>
 		<key>Modules/Predo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q4JmMaS4qZRTW9G2qtOv2m69QKq7UpstKOiQ94+ulK4=
+			f58GCHpC4MmdZsBcIc272Y5d14NZ25tNXDL10+IktUY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

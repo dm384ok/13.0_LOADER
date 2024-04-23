@@ -17,7 +17,9 @@ let package = Package(
 
     dependencies: [
         .package(
-            url: "https://github.com/facebook/facebook-ios-sdk.git", branch: "main")
+            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", from: "6.14.2"),
+        .package(
+            url: "https://github.com/facebook/facebook-ios-sdk.git", from: "17.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -29,8 +31,7 @@ let package = Package(
                 .target(name: "Predo"),
                 
                 
-                
-                .target(name: "AppsFlyerLib"),
+                .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
                 
                 .target(name: "OneSignalFramework"),
                 .target(name: "OneSignalNotifications"),
@@ -48,12 +49,6 @@ let package = Package(
             ]
         ),
         
-        
-        
-            .binaryTarget(
-                name: "AppsFlyerLib",
-                path: "./Sources/AppsFlyerLib.xcframework"),
-            
         
         .binaryTarget(
             name: "OneSignalCore",
