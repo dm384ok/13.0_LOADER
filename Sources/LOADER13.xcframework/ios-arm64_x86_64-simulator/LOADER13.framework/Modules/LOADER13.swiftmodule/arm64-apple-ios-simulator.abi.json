@@ -381,14 +381,14 @@
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 2020,
+      "offset": 2004,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "StringLiteral",
-      "offset": 1981,
+      "offset": 1965,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },

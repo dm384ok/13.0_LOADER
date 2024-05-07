@@ -4,6 +4,30 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>FBLPromises_Privacy.bundle/Info.plist</key>
+		<data>
+		5S/C/5nuMc1+9BET7n50urplBxI=
+		</data>
+		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
+		</data>
+		<key>FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
+		<data>
+		LlktUxK1Bf3JGZ3KCvtkPMsovys=
+		</data>
+		<key>FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ifoThrqbbqoLG4yjAruMQRaf0Dw=
+		</data>
+		<key>FirebaseInstallations_Privacy.bundle/Info.plist</key>
+		<data>
+		0ljjZlAU4Qen1iMZpjIM5LZVpwM=
+		</data>
+		<key>FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
+		</data>
 		<key>Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics</key>
 		<data>
 		VFbrugf7Qp4XVTyIHo/VsZkUU00=
@@ -40,6 +64,22 @@
 		<data>
 		20Y0GVBKpdjy1R+egsVADa6qjao=
 		</data>
+		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<data>
+		vZ9+/DdzNwQtq1b1xo869Gsv8D0=
+		</data>
+		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
+		</data>
+		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
+		<data>
+		+7IoJssT0SDbUUawCMtTdNXHdzo=
+		</data>
+		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		TrRzpkxcmDwPf9xXhrQKnuRceyI=
+		</data>
 		<key>Headers/LOADER13.h</key>
 		<data>
 		tBYaibSKrvJYGmIXVlEoscmxrXU=
@@ -50,7 +90,7 @@
 		</data>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qQUYlXxbDjBF1gkkM1DohbjxFLA=
+		fF7oTY21q48aRK5+2tNQ6JSbS/M=
 		</data>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,7 +110,7 @@
 		</data>
 		<key>Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qQUYlXxbDjBF1gkkM1DohbjxFLA=
+		fF7oTY21q48aRK5+2tNQ6JSbS/M=
 		</data>
 		<key>Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -103,6 +143,48 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>FBLPromises_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DTSOTxo7YQeJyUEBM9khIg0AUQHurFujOm0TIfDnrLc=
+			</data>
+		</dict>
+		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
+			</data>
+		</dict>
+		<key>FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sb4Px5M0c+q6uLsydbpeOsGmu6YOpB24AlRRHDaSCRQ=
+			</data>
+		</dict>
+		<key>FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W3/peUI97ePgivwppC8A9ghiddxUioTCl3QjWGPu0+8=
+			</data>
+		</dict>
+		<key>FirebaseInstallations_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CajAl/BGbnr19UDqKULO7aBi04a+dNizjdZat6pOCOU=
+			</data>
+		</dict>
+		<key>FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
+			</data>
+		</dict>
 		<key>Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics</key>
 		<dict>
 			<key>hash2</key>
@@ -166,6 +248,34 @@
 			/FyUGcdjQJPCkMcPV5d4b9+tFZGlkSnCv4Y95yM7xRU=
 			</data>
 		</dict>
+		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SVQS4Qbo/kUaEzXtTqrjgb1KYbPZvLkQjOz/tkWwkzY=
+			</data>
+		</dict>
+		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
+			</data>
+		</dict>
+		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CcrpIYawFfDcMTJqAW9Cz7gsO30AB9242JfEJ9rSNgU=
+			</data>
+		</dict>
+		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
+			</data>
+		</dict>
 		<key>Headers/LOADER13.h</key>
 		<dict>
 			<key>hash2</key>
@@ -177,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/lRquxKbyo5kHfxSZn6jK9v9tmv7gziVALjLbW6Njc=
+			cdot+VVDUQGVk/08+BbVteyH6hEfX+hw2dHdE5JwdmA=
 			</data>
 		</dict>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -212,7 +322,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f/lRquxKbyo5kHfxSZn6jK9v9tmv7gziVALjLbW6Njc=
+			cdot+VVDUQGVk/08+BbVteyH6hEfX+hw2dHdE5JwdmA=
 			</data>
 		</dict>
 		<key>Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
