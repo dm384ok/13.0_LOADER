@@ -17,13 +17,13 @@ let package = Package(
 
     dependencies: [
         .package(
-            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", from: "6.14.2"),
+            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", exact: "6.14.2"),
         
         .package(
-            url: "https://github.com/facebook/facebook-ios-sdk.git", from: "17.0.0"),
+            url: "https://github.com/facebook/facebook-ios-sdk.git", exact: "17.0.0"),
         
         .package(
-            url: "https://github.com/airbnb/lottie-ios", from: "4.4.3")
+            url: "https://github.com/airbnb/lottie-ios", exact: "4.4.3")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
