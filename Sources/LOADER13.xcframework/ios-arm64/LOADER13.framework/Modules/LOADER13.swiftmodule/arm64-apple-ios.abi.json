@@ -359,6 +359,23 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "LOADER13"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LOADER13",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Lottie",
+        "printedName": "Lottie",
+        "declKind": "Import",
+        "moduleName": "LOADER13"
       }
     ],
     "json_format_version": 8
@@ -367,30 +384,51 @@
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 748,
+      "offset": 527,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 875,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2004,
+      "offset": 592,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "StringLiteral",
-      "offset": 1965,
+      "offset": 553,
       "length": 16,
       "value": "\"ReviewIsShowed\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
+      "kind": "BooleanLiteral",
+      "offset": 949,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1076,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2691,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5732,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/AppsFlyerLibDelegateWrapper.swift",
