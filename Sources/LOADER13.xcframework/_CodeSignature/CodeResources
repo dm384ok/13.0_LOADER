@@ -6,31 +6,15 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		3y++sUAKzaCQmjLBz2v0kvESHgc=
+		5asp0oFM8huLtM5sLFjH2/LdLME=
 		</data>
-		<key>ios-arm64/LOADER13.framework/FBLPromises_Privacy.bundle/Info.plist</key>
+		<key>ios-arm64/.DS_Store</key>
 		<data>
-		PGJNZRJPckmRBK4d6HGZsSuHB7I=
+		451i6BSxOo0rAt0SSokP8PfK8ng=
 		</data>
-		<key>ios-arm64/LOADER13.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64/LOADER13.framework/.DS_Store</key>
 		<data>
-		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-		</data>
-		<key>ios-arm64/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
-		<data>
-		RpbLReI+Qn/GahwBpYDQmWKm7ds=
-		</data>
-		<key>ios-arm64/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		ifoThrqbbqoLG4yjAruMQRaf0Dw=
-		</data>
-		<key>ios-arm64/LOADER13.framework/FirebaseInstallations_Privacy.bundle/Info.plist</key>
-		<data>
-		Pjb/9Dz+x4cwv4VE2jnrYAdBR8E=
-		</data>
-		<key>ios-arm64/LOADER13.framework/FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
+		pKfT6lqkc7MY4vqjdfDowVVRTpY=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/Info.plist</key>
 		<data>
@@ -43,22 +27,6 @@
 		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist</key>
 		<data>
 		HKu1DTnEVZNllCQOqYixmBp9inI=
-		</data>
-		<key>ios-arm64/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
-		<data>
-		HZADtlIvGQGYv5nlt5drQw0J3l4=
-		</data>
-		<key>ios-arm64/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
-		</data>
-		<key>ios-arm64/LOADER13.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<data>
-		TU0h6mXvQPxJRXriqMgfxI5V65k=
-		</data>
-		<key>ios-arm64/LOADER13.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		TrRzpkxcmDwPf9xXhrQKnuRceyI=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Headers/LOADER13.h</key>
 		<data>
@@ -103,72 +71,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>ios-arm64/LOADER13.framework/FBLPromises_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PGJNZRJPckmRBK4d6HGZsSuHB7I=
-			</data>
-			<key>hash2</key>
-			<data>
-			MN6os8GcE5ebGYi+t9avonZVnJ1igDbuwnhSwvHEuPE=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-			</data>
-			<key>hash2</key>
-			<data>
-			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RpbLReI+Qn/GahwBpYDQmWKm7ds=
-			</data>
-			<key>hash2</key>
-			<data>
-			E/h6oW35kF6hC1Nvln9G79CJafZqZWoKyjZUftqIaRo=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ifoThrqbbqoLG4yjAruMQRaf0Dw=
-			</data>
-			<key>hash2</key>
-			<data>
-			W3/peUI97ePgivwppC8A9ghiddxUioTCl3QjWGPu0+8=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/FirebaseInstallations_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Pjb/9Dz+x4cwv4VE2jnrYAdBR8E=
-			</data>
-			<key>hash2</key>
-			<data>
-			qNrb5cGefdcYmNu0IRDIq8pEwottqQIiD/tEGKAMj6U=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-			</data>
-			<key>hash2</key>
-			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
-			</data>
-		</dict>
 		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -200,50 +102,6 @@
 			<key>hash2</key>
 			<data>
 			lNfYoM9YbJdpAB50fNSWxyJlXIN57pCZN7ANeOSXiKs=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HZADtlIvGQGYv5nlt5drQw0J3l4=
-			</data>
-			<key>hash2</key>
-			<data>
-			S1O0tjWCBPqh1g47w2giAQn8/yXUd88IH1HUy+f0sms=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GqeAMkwbcNQeG0K4qQhQh2vHhHo=
-			</data>
-			<key>hash2</key>
-			<data>
-			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TU0h6mXvQPxJRXriqMgfxI5V65k=
-			</data>
-			<key>hash2</key>
-			<data>
-			ctu+lNt7pMtlUQITU0UCGv7RAHmvs7TDmTn3a3pPcnE=
-			</data>
-		</dict>
-		<key>ios-arm64/LOADER13.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TrRzpkxcmDwPf9xXhrQKnuRceyI=
-			</data>
-			<key>hash2</key>
-			<data>
-			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Headers/LOADER13.h</key>
