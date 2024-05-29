@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		1xTPpGjRoATe1UQoCl+1mWLd7Jk=
-		</data>
-		<key>ios-arm64/.DS_Store</key>
-		<data>
-		451i6BSxOo0rAt0SSokP8PfK8ng=
-		</data>
-		<key>ios-arm64/LOADER13.framework/.DS_Store</key>
-		<data>
-		YFZqN+Heixzu4ppX7myy6ZM21SA=
-		</data>
 		<key>ios-arm64/LOADER13.framework/FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
 		a7yEQDA7wpiBetbpOeY8df9+rSc=
