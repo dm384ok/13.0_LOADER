@@ -23,7 +23,10 @@ let package = Package(
             url: "https://github.com/facebook/facebook-ios-sdk.git", exact: "17.0.0"),
         
         .package(
-            url: "https://github.com/airbnb/lottie-ios", exact: "4.4.3")
+            url: "https://github.com/airbnb/lottie-ios", exact: "4.4.3"),
+        
+        .package(
+                        url: "https://github.com/OneSignal/OneSignal-iOS-SDK",   from: "5.2.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -34,16 +37,11 @@ let package = Package(
                 
                 .target(name: "LOADER13"),
         
-                    .target(name: "OneSignalFramework"),
-                    .target(name: "OneSignalNotifications"),
-                    .target(name: "OneSignalUser"),
-                    .target(name: "OneSignalOutcomes"),
-                    .target(name: "OneSignalCore"),
-                    
-                    .target(name: "OneSignalExtension"),
-                    .target(name: "OneSignalInAppMessages"),
-                    .target(name: "OneSignalOSCore"),
-                    .target(name: "OneSignalLocation"),
+                    .product(name: "OneSignalFramework", package: "OneSignal-iOS-SDK"),
+                                  .product(name: "OneSignalInAppMessages", package: "OneSignal-iOS-SDK"),
+                                  .product(name: "OneSignalLocation", package: "OneSignal-iOS-SDK"),
+                                  .product(name: "OneSignalExtension", package: "OneSignal-iOS-SDK"),
+
                 
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
               
@@ -54,44 +52,6 @@ let package = Package(
                 .product(name: "FacebookBasics", package: "facebook-ios-sdk"),
             ]
         ),
-        
-        
-            .binaryTarget(
-                        name: "OneSignalCore",
-                        path: "./Sources/OneSignalCore.xcframework"),
-                    
-                    .binaryTarget(
-                        name: "OneSignalFramework",
-                        path: "./Sources/OneSignalFramework.xcframework"),
-                    
-                    .binaryTarget(
-                            name: "OneSignalNotifications",
-                            path: "./Sources/OneSignalNotifications.xcframework"),
-                    
-                    .binaryTarget(
-                        name: "OneSignalUser",
-                        path: "./Sources/OneSignalUser.xcframework"),
-                    
-                    .binaryTarget(
-                        name: "OneSignalOutcomes",
-                        path: "./Sources/OneSignalOutcomes.xcframework"),
-                    
-                    .binaryTarget(
-                                name: "OneSignalExtension",
-                                path: "./Sources/OneSignalExtension.xcframework"),
-                        
-                    .binaryTarget(
-                            name: "OneSignalInAppMessages",
-                            path: "./Sources/OneSignalInAppMessages.xcframework"),
-                        
-                    .binaryTarget(
-                            name: "OneSignalOSCore",
-                            path: "./Sources/OneSignalOSCore.xcframework"),
-                    
-                    .binaryTarget(
-                            name: "OneSignalLocation",
-                            path: "./Sources/OneSignalLocation.xcframework"),
-                        
         
         .binaryTarget(
             name: "LOADER13",
