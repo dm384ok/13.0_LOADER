@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		3y++sUAKzaCQmjLBz2v0kvESHgc=
-		</data>
 		<key>ios-arm64/LOADER13.framework/FBLPromises_Privacy.bundle/Info.plist</key>
 		<data>
 		a7yEQDA7wpiBetbpOeY8df9+rSc=
@@ -32,17 +28,41 @@
 		<data>
 		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
 		</data>
+		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics</key>
+		<data>
+		Dls+742Z5cshKFGtdZAhj7nQPHg=
+		</data>
 		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/Info.plist</key>
 		<data>
 		5KIA0z5I2cjx6KTvHY2HvbX2DI8=
+		</data>
+		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources</key>
+		<data>
+		OSktnhZh43Sy+4Gzfg6jIgHJdFw=
+		</data>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement</key>
+		<data>
+		SPg/IyKJgkUBiOddBvcqfYna8Ys=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/Info.plist</key>
 		<data>
 		FAOiRojWa8U1ZJfRIZFqILog6AQ=
 		</data>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Yr2ETA/rPhyxvRzaO2Y6NKLm/Qw=
+		</data>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport</key>
+		<data>
+		Pank/u0Enpo84c5ci6feIYK+Rzs=
+		</data>
 		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist</key>
 		<data>
 		HKu1DTnEVZNllCQOqYixmBp9inI=
+		</data>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources</key>
+		<data>
+		20Y0GVBKpdjy1R+egsVADa6qjao=
 		</data>
 		<key>ios-arm64/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
 		<data>
@@ -70,7 +90,7 @@
 		</data>
 		<key>ios-arm64/LOADER13.framework/LOADER13</key>
 		<data>
-		PjPxx+G3v4GpCeelGEgDk6NSfWQ=
+		NDXwAbhodPX/2m6xKcuehpY3Zi0=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -96,7 +116,179 @@
 		<data>
 		MEcNQazBSaH1pPcz9fLCVOeQXek=
 		</data>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeDirectory</key>
+		<data>
+		aLtyyPKTwUYlNIHwc8e4qOtzi7g=
+		</data>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeRequirements</key>
+		<data>
+		LxCCZvDpvX6v2wA32lO7n3u3Hbg=
+		</data>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		ASd9iFwuQwinljZM3YT8SGukXbQ=
+		</data>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeResources</key>
+		<data>
+		nJkWN4EC2UTfUipWaNFphZNTmVM=
+		</data>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeSignature</key>
+		<data>
+		lwZYkuUUSkp391tSkrzJz54Y0lU=
+		</data>
 		<key>ios-arm64/LOADER13.framework/animation.json</key>
+		<data>
+		haecPuhMhgaiPjL12p/Sf1wY+jA=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FBLPromises_Privacy.bundle/Info.plist</key>
+		<data>
+		/1KYeCYaFen4CcTrJlrj4JCGHVs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ZajnvEs/MYRS3X4TPLAhBWi8mc4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
+		<data>
+		qjmI4DLmj3XkD9g27vjgUuEpl2U=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ifoThrqbbqoLG4yjAruMQRaf0Dw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseInstallations_Privacy.bundle/Info.plist</key>
+		<data>
+		zN1PFuiIXauSfJEg+a5S8A8JtrI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics</key>
+		<data>
+		X2W7gQdigF0Gd83vNLIbdBVKZ24=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/Info.plist</key>
+		<data>
+		5KIA0z5I2cjx6KTvHY2HvbX2DI8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources</key>
+		<data>
+		OSktnhZh43Sy+4Gzfg6jIgHJdFw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement</key>
+		<data>
+		AgiwHa2/Xnde2PSOWXpRvhy1bt4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/Info.plist</key>
+		<data>
+		FAOiRojWa8U1ZJfRIZFqILog6AQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Yr2ETA/rPhyxvRzaO2Y6NKLm/Qw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport</key>
+		<data>
+		7PNaKoVAM+tU//y8p1h0A4J+Nxg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist</key>
+		<data>
+		HKu1DTnEVZNllCQOqYixmBp9inI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources</key>
+		<data>
+		20Y0GVBKpdjy1R+egsVADa6qjao=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<data>
+		QDRS2xk0Urv+knVwlcTjHwdlVQ0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		GqeAMkwbcNQeG0K4qQhQh2vHhHo=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
+		<data>
+		3pHRsJGEc/Ucbuww3TS8NcsgFDQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		TrRzpkxcmDwPf9xXhrQKnuRceyI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Headers/LOADER13.h</key>
+		<data>
+		tBYaibSKrvJYGmIXVlEoscmxrXU=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Info.plist</key>
+		<data>
+		Lb8nj5uT3dqVqWaRPsU5jmkjQQg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/LOADER13</key>
+		<data>
+		RwkTwxEH/EIqA9LKdE0xouxQSJw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		Xac2ZH4AyGlh7fKXUGeRLStYG1o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		6+HYVPoWEOXzLQ3SPJzmznr8c5o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		77MmKP5EWN7ed8HQhSsGCpdBjcI=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		6+HYVPoWEOXzLQ3SPJzmznr8c5o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		Xac2ZH4AyGlh7fKXUGeRLStYG1o=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		OSESsfbWd+U+NQvQlM8KypfU4Tg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		C8zotaNrczj0Eet96Vv6l+D051k=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		OSESsfbWd+U+NQvQlM8KypfU4Tg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/module.modulemap</key>
+		<data>
+		EA92EEDn87lXQRoaXtE6MAQtnZ0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		MEcNQazBSaH1pPcz9fLCVOeQXek=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeDirectory</key>
+		<data>
+		i//RJEbWIl8Mrh+Uh06mt0VTtos=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		VS6L8Wp2dFUMRW7yVE1U8xHIYE4=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeResources</key>
+		<data>
+		pTHwIEDMSSssun+k7UPDqzFalNg=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/animation.json</key>
 		<data>
 		haecPuhMhgaiPjL12p/Sf1wY+jA=
 		</data>
@@ -169,6 +361,17 @@
 			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
 			</data>
 		</dict>
+		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Dls+742Z5cshKFGtdZAhj7nQPHg=
+			</data>
+			<key>hash2</key>
+			<data>
+			IQAJZoNu34V7vtR+R4RzJgeVl/Tl71IWBUJFybCpNps=
+			</data>
+		</dict>
 		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -178,6 +381,28 @@
 			<key>hash2</key>
 			<data>
 			dE2F4Yg8f3Gt7AU1hBfhHgTY94Bpw7nwb51Kpqsp7y8=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSktnhZh43Sy+4Gzfg6jIgHJdFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			INNFe2PT12cwonf+cy5690bR/CQcWEbyg6/eUpRHYO8=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SPg/IyKJgkUBiOddBvcqfYna8Ys=
+			</data>
+			<key>hash2</key>
+			<data>
+			AFSWxxhIEYwIiXLFoDuchQ+e2nHA7s6alva0HP13ac8=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/Info.plist</key>
@@ -191,6 +416,28 @@
 			Mm6h2Zq1O5085a4iT76CwEHPo/ay2/kCF+flQ4Pd6y8=
 			</data>
 		</dict>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yr2ETA/rPhyxvRzaO2Y6NKLm/Qw=
+			</data>
+			<key>hash2</key>
+			<data>
+			/N7Tm8PlbxFg3nVu30a1FchIcQsJl6XiMcGZaIAnAMo=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Pank/u0Enpo84c5ci6feIYK+Rzs=
+			</data>
+			<key>hash2</key>
+			<data>
+			XBQvj1qWgETwtcwxGrrFptJxs05eURuAUuc7CcoYvWs=
+			</data>
+		</dict>
 		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -200,6 +447,17 @@
 			<key>hash2</key>
 			<data>
 			lNfYoM9YbJdpAB50fNSWxyJlXIN57pCZN7ANeOSXiKs=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			20Y0GVBKpdjy1R+egsVADa6qjao=
+			</data>
+			<key>hash2</key>
+			<data>
+			/FyUGcdjQJPCkMcPV5d4b9+tFZGlkSnCv4Y95yM7xRU=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
@@ -272,11 +530,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PjPxx+G3v4GpCeelGEgDk6NSfWQ=
+			NDXwAbhodPX/2m6xKcuehpY3Zi0=
 			</data>
 			<key>hash2</key>
 			<data>
-			lvB9xfxkBpFvJw4dE/5IkgsDp5GuGv5y0lz7Ya44zJM=
+			Aq8LoYfGtYKxs3G1FeD9qQOQAFPfZQFS+CCOTGK6JYo=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -345,7 +603,480 @@
 			R9fiEWK4L2NboyMBnhriGBdj35hpbfmvyQohYcn2VvE=
 			</data>
 		</dict>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aLtyyPKTwUYlNIHwc8e4qOtzi7g=
+			</data>
+			<key>hash2</key>
+			<data>
+			10STwkFOM/lAd4ITNNwBi2RcNNq3fu6k3QrGOYVugVk=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LxCCZvDpvX6v2wA32lO7n3u3Hbg=
+			</data>
+			<key>hash2</key>
+			<data>
+			nlSMNMg2LyIxF5jyApKLcyXttdWysZRsTc4L9QyRmL4=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ASd9iFwuQwinljZM3YT8SGukXbQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			wOBhXLlcjzsvR+3XXThMP0lFDzTTy/EFCIbFKqTzhiA=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nJkWN4EC2UTfUipWaNFphZNTmVM=
+			</data>
+			<key>hash2</key>
+			<data>
+			9KOp34MkGE/RPEq7PhToyKbdesnKA06Z694uzOEiobA=
+			</data>
+		</dict>
+		<key>ios-arm64/LOADER13.framework/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lwZYkuUUSkp391tSkrzJz54Y0lU=
+			</data>
+			<key>hash2</key>
+			<data>
+			1WX8DeNXByLNqvHIhNn1u32YtmNJc2lPOPtt6MRfAOA=
+			</data>
+		</dict>
 		<key>ios-arm64/LOADER13.framework/animation.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			haecPuhMhgaiPjL12p/Sf1wY+jA=
+			</data>
+			<key>hash2</key>
+			<data>
+			5WLlYyqCDh20FBEToEH0+GHN+6oYV9dsQApZ+E69GZI=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FBLPromises_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/1KYeCYaFen4CcTrJlrj4JCGHVs=
+			</data>
+			<key>hash2</key>
+			<data>
+			iukpHWuhjXDTyjWBC5O0FnWRMwsBxXKqWUswE8A/EsU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZajnvEs/MYRS3X4TPLAhBWi8mc4=
+			</data>
+			<key>hash2</key>
+			<data>
+			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qjmI4DLmj3XkD9g27vjgUuEpl2U=
+			</data>
+			<key>hash2</key>
+			<data>
+			w6n5DagXrQQ9HECF8xduKdIUWlT1XS4pbJA113TQv6U=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ifoThrqbbqoLG4yjAruMQRaf0Dw=
+			</data>
+			<key>hash2</key>
+			<data>
+			W3/peUI97ePgivwppC8A9ghiddxUioTCl3QjWGPu0+8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseInstallations_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zN1PFuiIXauSfJEg+a5S8A8JtrI=
+			</data>
+			<key>hash2</key>
+			<data>
+			hLPzjten9Ky0Wr0g+BFtNOTd+pzy6IU9jQmvroXTmeQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WXQUJr75eMRgiVnLGyf8Gr3uLUU=
+			</data>
+			<key>hash2</key>
+			<data>
+			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/FirebaseAnalytics</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X2W7gQdigF0Gd83vNLIbdBVKZ24=
+			</data>
+			<key>hash2</key>
+			<data>
+			em1WbXXjhffdnUOzKZ2PZENcsFQBFuwmpKOmJIOq/ic=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5KIA0z5I2cjx6KTvHY2HvbX2DI8=
+			</data>
+			<key>hash2</key>
+			<data>
+			dE2F4Yg8f3Gt7AU1hBfhHgTY94Bpw7nwb51Kpqsp7y8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/FirebaseAnalytics.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSktnhZh43Sy+4Gzfg6jIgHJdFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			INNFe2PT12cwonf+cy5690bR/CQcWEbyg6/eUpRHYO8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/GoogleAppMeasurement</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AgiwHa2/Xnde2PSOWXpRvhy1bt4=
+			</data>
+			<key>hash2</key>
+			<data>
+			9XmvfSn2sMd0UJGCTKH6Jmq8T2EOCFnoQwvLC8Lc22w=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FAOiRojWa8U1ZJfRIZFqILog6AQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Mm6h2Zq1O5085a4iT76CwEHPo/ay2/kCF+flQ4Pd6y8=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurement.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yr2ETA/rPhyxvRzaO2Y6NKLm/Qw=
+			</data>
+			<key>hash2</key>
+			<data>
+			/N7Tm8PlbxFg3nVu30a1FchIcQsJl6XiMcGZaIAnAMo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/GoogleAppMeasurementIdentitySupport</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7PNaKoVAM+tU//y8p1h0A4J+Nxg=
+			</data>
+			<key>hash2</key>
+			<data>
+			9aNJuOJdS1r6ouI9SZzPejWOfW6VMkUY4QogbFXI3SM=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HKu1DTnEVZNllCQOqYixmBp9inI=
+			</data>
+			<key>hash2</key>
+			<data>
+			lNfYoM9YbJdpAB50fNSWxyJlXIN57pCZN7ANeOSXiKs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Frameworks/GoogleAppMeasurementIdentitySupport.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			20Y0GVBKpdjy1R+egsVADa6qjao=
+			</data>
+			<key>hash2</key>
+			<data>
+			/FyUGcdjQJPCkMcPV5d4b9+tFZGlkSnCv4Y95yM7xRU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QDRS2xk0Urv+knVwlcTjHwdlVQ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			mI9hjrmNONX0tgwA1KfzAewzCzNiFs+NpwMbyWfc7VE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GqeAMkwbcNQeG0K4qQhQh2vHhHo=
+			</data>
+			<key>hash2</key>
+			<data>
+			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GoogleUtilities_Privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3pHRsJGEc/Ucbuww3TS8NcsgFDQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			4TQBy6b0KRCiOmNHASX7p1dh1tCkI0PJDvi94Z63gKA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TrRzpkxcmDwPf9xXhrQKnuRceyI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Headers/LOADER13.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tBYaibSKrvJYGmIXVlEoscmxrXU=
+			</data>
+			<key>hash2</key>
+			<data>
+			g2kx91BiGuGrFwDF0FVg+fZWP8ej9q2hvohZZ9+qtjU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lb8nj5uT3dqVqWaRPsU5jmkjQQg=
+			</data>
+			<key>hash2</key>
+			<data>
+			RStE1+zxabXoUNuqFLsLtI6juqdCTdFiWPOwCl7H3HE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/LOADER13</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RwkTwxEH/EIqA9LKdE0xouxQSJw=
+			</data>
+			<key>hash2</key>
+			<data>
+			dfnmpU0k4+tjPs41Lznfu1jAxsUUbA5CzRidMIzTVEk=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xac2ZH4AyGlh7fKXUGeRLStYG1o=
+			</data>
+			<key>hash2</key>
+			<data>
+			65PUDCUv9pJ2oOI0h9TC+ZLQp+znruI8OkolZjQN4C0=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6+HYVPoWEOXzLQ3SPJzmznr8c5o=
+			</data>
+			<key>hash2</key>
+			<data>
+			1SIbVUlTKphB3w02HcNUGgFG5OGr4lXXXzQqI4JHk8Y=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			77MmKP5EWN7ed8HQhSsGCpdBjcI=
+			</data>
+			<key>hash2</key>
+			<data>
+			lV0tnU8/t7z9ZQiix5Tb5aEYPTwNOMUb882QinkQ9r0=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6+HYVPoWEOXzLQ3SPJzmznr8c5o=
+			</data>
+			<key>hash2</key>
+			<data>
+			1SIbVUlTKphB3w02HcNUGgFG5OGr4lXXXzQqI4JHk8Y=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xac2ZH4AyGlh7fKXUGeRLStYG1o=
+			</data>
+			<key>hash2</key>
+			<data>
+			65PUDCUv9pJ2oOI0h9TC+ZLQp+znruI8OkolZjQN4C0=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSESsfbWd+U+NQvQlM8KypfU4Tg=
+			</data>
+			<key>hash2</key>
+			<data>
+			2jQpAHZo3tpeLpokaezjdX2C3EIWRgHjJgZO8CT2z/g=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C8zotaNrczj0Eet96Vv6l+D051k=
+			</data>
+			<key>hash2</key>
+			<data>
+			RA7DPPeT6z7PzOAEc/p+4HHPbIg/pKmW9bED7YHqweo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSESsfbWd+U+NQvQlM8KypfU4Tg=
+			</data>
+			<key>hash2</key>
+			<data>
+			2jQpAHZo3tpeLpokaezjdX2C3EIWRgHjJgZO8CT2z/g=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EA92EEDn87lXQRoaXtE6MAQtnZ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			o1mckUdvpEiyym9e4KWj0dchBfu4M1aBRUf3VeLbx9I=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MEcNQazBSaH1pPcz9fLCVOeQXek=
+			</data>
+			<key>hash2</key>
+			<data>
+			R9fiEWK4L2NboyMBnhriGBdj35hpbfmvyQohYcn2VvE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i//RJEbWIl8Mrh+Uh06mt0VTtos=
+			</data>
+			<key>hash2</key>
+			<data>
+			kGSPQqjcEf6Rmiz5N/sQX+9zvS0ffShemj3afAizszo=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OnX22wWFKRSOFN1+obRynMCeyXM=
+			</data>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VS6L8Wp2dFUMRW7yVE1U8xHIYE4=
+			</data>
+			<key>hash2</key>
+			<data>
+			boglTkJIBuUhsi31RjyNe4ZsU6CmVyEbiCEmzLXA3bY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pTHwIEDMSSssun+k7UPDqzFalNg=
+			</data>
+			<key>hash2</key>
+			<data>
+			v7TUEWGpGEhTmmk+hH0feB+BCNZipbQjWJPuuxlu4Qs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/animation.json</key>
 		<dict>
 			<key>hash</key>
 			<data>

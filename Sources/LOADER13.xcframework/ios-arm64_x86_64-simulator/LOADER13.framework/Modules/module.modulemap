@@ -1,0 +1,6 @@
+framework module LOADER13 {
+  umbrella header "LOADER13.h"
+  export *
+
+  module * { export * }
+}
