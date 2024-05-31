@@ -20,13 +20,13 @@
 		<data>
 		ifoThrqbbqoLG4yjAruMQRaf0Dw=
 		</data>
-		<key>FirebaseInstallations_Privacy.bundle/Info.plist</key>
+		<key>FirebaseCore_Privacy.bundle/Info.plist</key>
 		<data>
-		2RqlYcOB3ok4QacXn6tMRubGhJU=
+		3fEmMYSiclSDRLVfqc1zRB4yYNk=
 		</data>
-		<key>FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<key>FirebaseCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
-		WXQUJr75eMRgiVnLGyf8Gr3uLUU=
+		sa2OhFlqdCIyz9oV7fUdDKWzFL0=
 		</data>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		8tqirXvG5bEFEIEbDUT7qUG4LNY=
+		dLFYCu/1tnAnxl1xLqcKXe4C69s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,10 +89,6 @@
 	<dict>
 		<key>FBLPromises_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a7yEQDA7wpiBetbpOeY8df9+rSc=
-			</data>
 			<key>hash2</key>
 			<data>
 			/PvTpwjQjJueiHK3u7HBDjndMve37XnWphR5MJOdzhg=
@@ -100,10 +96,6 @@
 		</dict>
 		<key>FBLPromises_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZajnvEs/MYRS3X4TPLAhBWi8mc4=
-			</data>
 			<key>hash2</key>
 			<data>
 			dLDNcvwjwe8wLyLuJ1P2GBfNxa8P96fy0GMrUk+4rOo=
@@ -111,10 +103,6 @@
 		</dict>
 		<key>FirebaseCoreInternal_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KoZPoFi2Wvk0F756YX93GtTR/k0=
-			</data>
 			<key>hash2</key>
 			<data>
 			nhMen1B8+jr+KJWqBAMGqAaRnG21ycn42Xh5aErJgAE=
@@ -122,43 +110,27 @@
 		</dict>
 		<key>FirebaseCoreInternal_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ifoThrqbbqoLG4yjAruMQRaf0Dw=
-			</data>
 			<key>hash2</key>
 			<data>
 			W3/peUI97ePgivwppC8A9ghiddxUioTCl3QjWGPu0+8=
 			</data>
 		</dict>
-		<key>FirebaseInstallations_Privacy.bundle/Info.plist</key>
+		<key>FirebaseCore_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2RqlYcOB3ok4QacXn6tMRubGhJU=
-			</data>
 			<key>hash2</key>
 			<data>
-			WQ7sc44QODpuSRU5yGKQu5IDruzAdy6Up+zPh9jCfH4=
+			/PryaYthvbhvWyK6H0yvt893svjvhygAsXdl46E2JP0=
 			</data>
 		</dict>
-		<key>FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<key>FirebaseCore_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WXQUJr75eMRgiVnLGyf8Gr3uLUU=
-			</data>
 			<key>hash2</key>
 			<data>
-			z7s8T3ambVNpi66R9xEMAPIUjm5vE619MlkpCbwBDlE=
+			EeMfX2tg6A69WQFUn85QQ/mvPmg/h0AilFAAtAUwbD8=
 			</data>
 		</dict>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DgjA/c7kq96jRz1MUmKOA/YMGug=
-			</data>
 			<key>hash2</key>
 			<data>
 			brV95kXVicmpdu2nKnT6Bnx1ZzYa+w/1JD6T7uJjy/8=
@@ -166,10 +138,6 @@
 		</dict>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GqeAMkwbcNQeG0K4qQhQh2vHhHo=
-			</data>
 			<key>hash2</key>
 			<data>
 			PkqTy+hqzvfdfgY6KMhJmS9Vbn9SytxfN8HosOG1RoY=
@@ -177,10 +145,6 @@
 		</dict>
 		<key>GoogleUtilities_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3uGWiBNSyI6iJJTgxgFtVPUuzUc=
-			</data>
 			<key>hash2</key>
 			<data>
 			0E8XJyXXZ0Lhmitjpc7oIMQMdFtYNJ+x6LgRrZ+xb6A=
@@ -188,10 +152,6 @@
 		</dict>
 		<key>GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TrRzpkxcmDwPf9xXhrQKnuRceyI=
-			</data>
 			<key>hash2</key>
 			<data>
 			jxZCM8XSFfsGzrh4STQCHd3X05qJ15Xla6XIMqsPs/c=
@@ -199,10 +159,6 @@
 		</dict>
 		<key>Headers/LOADER13.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tBYaibSKrvJYGmIXVlEoscmxrXU=
-			</data>
 			<key>hash2</key>
 			<data>
 			g2kx91BiGuGrFwDF0FVg+fZWP8ej9q2hvohZZ9+qtjU=
@@ -210,10 +166,6 @@
 		</dict>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xac2ZH4AyGlh7fKXUGeRLStYG1o=
-			</data>
 			<key>hash2</key>
 			<data>
 			65PUDCUv9pJ2oOI0h9TC+ZLQp+znruI8OkolZjQN4C0=
@@ -221,10 +173,6 @@
 		</dict>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B2FORhROoioFoRCAohudATWfHko=
-			</data>
 			<key>hash2</key>
 			<data>
 			cl1Mn/lPVe5gDK7v+dhhWjxYDJ8Dkg7gkwgg3vgMysM=
@@ -232,10 +180,6 @@
 		</dict>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w7YQpy9o8hTRaiOkNpNxVvl4EtQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			zJs8E33d7LzkkZLOqZi+c07Xp54nJLpIg0QLbfZHWmY=
@@ -243,10 +187,6 @@
 		</dict>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B2FORhROoioFoRCAohudATWfHko=
-			</data>
 			<key>hash2</key>
 			<data>
 			cl1Mn/lPVe5gDK7v+dhhWjxYDJ8Dkg7gkwgg3vgMysM=
@@ -254,21 +194,13 @@
 		</dict>
 		<key>Modules/LOADER13.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8tqirXvG5bEFEIEbDUT7qUG4LNY=
-			</data>
 			<key>hash2</key>
 			<data>
-			JfE1q7p0QWQ3x+7zHHO5LSj3VgjZh9WBqEDyP4byT7o=
+			2xwhARfiwjaabu1RtL/IEfyl4pdxSkcb4zy4+s5t+qc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EA92EEDn87lXQRoaXtE6MAQtnZ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			o1mckUdvpEiyym9e4KWj0dchBfu4M1aBRUf3VeLbx9I=
@@ -276,10 +208,6 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MEcNQazBSaH1pPcz9fLCVOeQXek=
-			</data>
 			<key>hash2</key>
 			<data>
 			R9fiEWK4L2NboyMBnhriGBdj35hpbfmvyQohYcn2VvE=
@@ -287,10 +215,6 @@
 		</dict>
 		<key>animation.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			haecPuhMhgaiPjL12p/Sf1wY+jA=
-			</data>
 			<key>hash2</key>
 			<data>
 			5WLlYyqCDh20FBEToEH0+GHN+6oYV9dsQApZ+E69GZI=
