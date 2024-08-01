@@ -28,18 +28,6 @@
 		<data>
 		sa2OhFlqdCIyz9oV7fUdDKWzFL0=
 		</data>
-		<key>Frameworks/Pods_LOADER13.framework/Info.plist</key>
-		<data>
-		3eN0whGLkxoanAP1sTRx7cm3Bk8=
-		</data>
-		<key>Frameworks/Pods_LOADER13.framework/Pods_LOADER13</key>
-		<data>
-		dCx1aO7N0gendpN3leXUQ/LpLDI=
-		</data>
-		<key>Frameworks/Pods_LOADER13.framework/_CodeSignature/CodeResources</key>
-		<data>
-		+maebKOTt7kJZp97T2Au78EJGGo=
-		</data>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
 		<data>
 		W7A58DzgYMYalr2+qBxpgIT1BDY=
@@ -159,27 +147,6 @@
 			<key>hash2</key>
 			<data>
 			EeMfX2tg6A69WQFUn85QQ/mvPmg/h0AilFAAtAUwbD8=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_LOADER13.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kvXuIK/FtQZc+9p2Is80DGh31SUTroMDK9FuOmnK3J4=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_LOADER13.framework/Pods_LOADER13</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U9YSBwSfVc3uICAZsgGJR5i0aW53aBI5vHKwj5nxxlU=
-			</data>
-		</dict>
-		<key>Frameworks/Pods_LOADER13.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gJJe2M8r8bioW6WwTMcpwVk68Li3/6BeNydHbzextF8=
 			</data>
 		</dict>
 		<key>GTMSessionFetcher_Core_Privacy.bundle/Info.plist</key>
