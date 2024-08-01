@@ -5,14 +5,15 @@
 
 //
 
-#import "Analytics.h"
-#import <LOADER13-Swift.h>
+#import "LOADER.h"
+#import <LOADER13/LOADER13.h>
 
 @implementation LOADER
 
 + (void)load {
-    [LOADER13 setup];
+
     NSLog(@"%@", @"-> ENABLE LOGGER");
 }
+
 
 @end
