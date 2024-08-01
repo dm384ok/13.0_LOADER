@@ -382,70 +382,70 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/LOADER13.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
       "offset": 527,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/LOADER13.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
       "offset": 592,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/LOADER13.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "StringLiteral",
       "offset": 553,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/LOADER13.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
       "offset": 949,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/LOADER13.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
       "offset": 1076,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/LOADER13.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
       "offset": 3170,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/LOADER13.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
       "offset": 6222,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/Source\/AppsFlyerLibDelegateWrapper.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/AppsFlyerLibDelegateWrapper.swift",
       "kind": "StringLiteral",
       "offset": 134,
       "length": 27,
       "value": "\"LOADER13.AppsFlyerLibDelegateWrapper\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/Source\/Analytics.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/Analytics.swift",
       "kind": "Dictionary",
       "offset": 420,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/13\/13.0 LOADER\/LOADER13\/Source\/Analytics.swift",
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/Analytics.swift",
       "kind": "StringLiteral",
       "offset": 313,
       "length": 9,
