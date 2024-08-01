@@ -38,6 +38,12 @@ This is Extremely important for the operation of advertising blocks!
 
 ![enter image description here](https://i.imgur.com/g1HDkvC.png)
 
+
+#### Hide status bar:
+![enter image description here](https://imgur.com/TKwlL20.png)
+
+
+
 ## Finish
 
 *Target project is ready , Build test and publish project in original way.*
