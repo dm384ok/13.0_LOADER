@@ -50,7 +50,7 @@ let package = Package(
                 .product(name: "FacebookCore", package: "facebook-ios-sdk"),
                 .product(name: "FacebookAEM", package: "facebook-ios-sdk"),
                 .product(name: "FacebookBasics", package: "facebook-ios-sdk"),
-            ]
+            ],publicHeadersPath: "include"
         ),
         
         .binaryTarget(
