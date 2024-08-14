@@ -21,7 +21,7 @@ import _Concurrency
 import _StoreKit_SwiftUI
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_inheritsConvenienceInitializers public class LOADER13 : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc(LOADER13) public class LOADER13 : ObjectiveC.NSObject {
   @objc public static func setup()
   @objc override dynamic public init()
   @objc deinit

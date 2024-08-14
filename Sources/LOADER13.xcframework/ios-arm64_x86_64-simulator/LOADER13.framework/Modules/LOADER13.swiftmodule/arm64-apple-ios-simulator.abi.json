@@ -137,6 +137,7 @@
         "usr": "c:@M@LOADER13@objc(cs)LOADER13",
         "mangledName": "$s8LOADER13AAC",
         "moduleName": "LOADER13",
+        "objc_name": "LOADER13",
         "declAttributes": [
           "AccessControl",
           "ObjC"
@@ -384,63 +385,63 @@
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 527,
+      "offset": 543,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 673,
+      "offset": 689,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "StringLiteral",
-      "offset": 634,
+      "offset": 650,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 720,
+      "offset": 736,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "StringLiteral",
-      "offset": 695,
+      "offset": 711,
       "length": 9,
       "value": "\"AdShows\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 1077,
+      "offset": 1093,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 1204,
+      "offset": 1220,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 3394,
+      "offset": 3410,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 6096,
+      "offset": 6112,
       "length": 5,
       "value": "false"
     },
