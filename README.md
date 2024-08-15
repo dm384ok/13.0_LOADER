@@ -12,6 +12,8 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > ITSAppUsesNonExemptEncryption  :  NO
 
+> UIViewControllerBasedStatusBarAppearance :  NO
+
 > NSAdvertisingAttributionReportEndpoint : https://appsflyer-skadnetwork.com/
 
 > NSLocationWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
@@ -19,6 +21,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 > NSCameraUsageDescription : Select "Allow" for better experience. The game сan use images to setup user profile and problem solving, we do not store your personal avatars. 
 
 > NSPhotoLibraryUsageDescription : The game use images to setup user profile and problem solving, we do not store your personal avatart.
+
 
 > APPHUD : ***Paste here key value***
 
