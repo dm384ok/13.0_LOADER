@@ -7,10 +7,10 @@ import ApphudSDK
 import AppsFlyerLib
 import FacebookBasics
 import FacebookCore
-import FirebaseCore
 import Foundation
 @_exported import LOADER13
 import Lottie
+import Masonry
 import OneSignalCore
 import OneSignalFramework
 import Swift
@@ -21,7 +21,7 @@ import _Concurrency
 import _StoreKit_SwiftUI
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_inheritsConvenienceInitializers @objc(LOADER13) public class LOADER13 : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers public class LOADER13 : ObjectiveC.NSObject {
   @objc public static func setup()
   @objc override dynamic public init()
   @objc deinit

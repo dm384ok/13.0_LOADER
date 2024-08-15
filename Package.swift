@@ -36,6 +36,7 @@ let package = Package(
             dependencies: [
                 
                 .target(name: "LOADER13"),
+                .target(name: "Masonry"),
         
                     .product(name: "OneSignalFramework", package: "OneSignal-iOS-SDK"),
                                   .product(name: "OneSignalInAppMessages", package: "OneSignal-iOS-SDK"),
@@ -56,6 +57,12 @@ let package = Package(
         .binaryTarget(
             name: "LOADER13",
             path: "./Sources/LOADER13.xcframework"),
+        
+        .binaryTarget(
+            name: "Masonry",
+            path: "./Sources/Masonry.xcframework"),
+        
+        
 
     ],
     swiftLanguageVersions: [.v5]

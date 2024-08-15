@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>ios-arm64/LOADER13.framework/Headers/Analytics_gsome.h</key>
+		<data>
+		OFxHHdMLHZrjiusxUKOtdKHddj0=
+		</data>
 		<key>ios-arm64/LOADER13.framework/Headers/LOADER13.h</key>
 		<data>
-		5AzRZI++ViY5hlSyYJTCToPaLZM=
+		vQOowuQEhiuEiUKnu0vLlGLlfGg=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Info.plist</key>
 		<data>
@@ -14,15 +18,15 @@
 		</data>
 		<key>ios-arm64/LOADER13.framework/LOADER13</key>
 		<data>
-		j4uv4Di5zrw9UKCrOkfFNFSibE8=
+		9n3rxsU55stDmSbCPtAYxzR2uOc=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		l2gyYJugPrzgaJTCttTTcedO39s=
+		7dzSEjw5OxxhoQGiETQO92ktu18=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		bu8uR4uECNHLDCsL1HocNV7mZ6I=
+		4e4h5//JzYDlai+b1VaGkHdeyCs=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +34,7 @@
 		</data>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		bu8uR4uECNHLDCsL1HocNV7mZ6I=
+		4e4h5//JzYDlai+b1VaGkHdeyCs=
 		</data>
 		<key>ios-arm64/LOADER13.framework/Modules/module.modulemap</key>
 		<data>
@@ -44,9 +48,13 @@
 		<data>
 		cxo9/8iW7Z3rNhlE5Tp2oxB05BI=
 		</data>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Headers/Analytics_gsome.h</key>
+		<data>
+		OFxHHdMLHZrjiusxUKOtdKHddj0=
+		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Headers/LOADER13.h</key>
 		<data>
-		5AzRZI++ViY5hlSyYJTCToPaLZM=
+		vQOowuQEhiuEiUKnu0vLlGLlfGg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Info.plist</key>
 		<data>
@@ -54,15 +62,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/LOADER13</key>
 		<data>
-		n4zu7xTjMRrcs0XCpbUqV5EQFT8=
+		AlVSRy+2fHDXWrv2DemNNdd8dxI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		l2gyYJugPrzgaJTCttTTcedO39s=
+		7dzSEjw5OxxhoQGiETQO92ktu18=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		nv5Z1tmeePq63eqHvWWfiuvBW7c=
+		33gepWcAgWIuDn+RrYzdMv8bSgw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -70,15 +78,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nv5Z1tmeePq63eqHvWWfiuvBW7c=
+		33gepWcAgWIuDn+RrYzdMv8bSgw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		l2gyYJugPrzgaJTCttTTcedO39s=
+		7dzSEjw5OxxhoQGiETQO92ktu18=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ecxYXvi2JzeWwTH2ntLOdAAyHPk=
+		U8RGGMz3bO/xP0YpCqaJBp1TH7Y=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,7 +94,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ecxYXvi2JzeWwTH2ntLOdAAyHPk=
+		U8RGGMz3bO/xP0YpCqaJBp1TH7Y=
 		</data>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/module.modulemap</key>
 		<data>
@@ -103,15 +111,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>ios-arm64/LOADER13.framework/Headers/Analytics_gsome.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OFxHHdMLHZrjiusxUKOtdKHddj0=
+			</data>
+			<key>hash2</key>
+			<data>
+			PvCUGFrezQA6K/noNZKcNS8vqXFTfE/H7PovmXj+sZ0=
+			</data>
+		</dict>
 		<key>ios-arm64/LOADER13.framework/Headers/LOADER13.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5AzRZI++ViY5hlSyYJTCToPaLZM=
+			vQOowuQEhiuEiUKnu0vLlGLlfGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			hLRi+P75PL0gMNTe++JSEBpRcJEwoVIXBgD1eyJncxo=
+			ZRkI1bWGjoQBsTi5mbm+WkdeYIv0FjI4M4JKg+rPajM=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Info.plist</key>
@@ -129,33 +148,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j4uv4Di5zrw9UKCrOkfFNFSibE8=
+			9n3rxsU55stDmSbCPtAYxzR2uOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			S8chTjD/7Fa8GFDIc9jF977ugNDam4pZb/XZVjp9F8E=
+			9IoY+/ne8F/gqX8zGyVC6PmZZv14Th3SNjqvjHnmM+k=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l2gyYJugPrzgaJTCttTTcedO39s=
+			7dzSEjw5OxxhoQGiETQO92ktu18=
 			</data>
 			<key>hash2</key>
 			<data>
-			dK7lDjR19hLU+Txz1hHkt4ojLd9IeJU62ItaiZ77dw8=
+			v6iKkJPw768rVV433aO+uTTcCi5M9WF+ORnd67W1lno=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bu8uR4uECNHLDCsL1HocNV7mZ6I=
+			4e4h5//JzYDlai+b1VaGkHdeyCs=
 			</data>
 			<key>hash2</key>
 			<data>
-			sU2utWbJF6e/PWVvSxHuB9toReDtrt7fuPXxVelSck0=
+			a+qQ++K1l4F9025G2c9d6VqCXgwtUhfIT5OvTEhXdGc=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -173,11 +192,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bu8uR4uECNHLDCsL1HocNV7mZ6I=
+			4e4h5//JzYDlai+b1VaGkHdeyCs=
 			</data>
 			<key>hash2</key>
 			<data>
-			sU2utWbJF6e/PWVvSxHuB9toReDtrt7fuPXxVelSck0=
+			a+qQ++K1l4F9025G2c9d6VqCXgwtUhfIT5OvTEhXdGc=
 			</data>
 		</dict>
 		<key>ios-arm64/LOADER13.framework/Modules/module.modulemap</key>
@@ -213,15 +232,26 @@
 			nqYTVesKX18Mg0DACYtZPeLiyBF1maD63ITtTkWIE+w=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Headers/Analytics_gsome.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OFxHHdMLHZrjiusxUKOtdKHddj0=
+			</data>
+			<key>hash2</key>
+			<data>
+			PvCUGFrezQA6K/noNZKcNS8vqXFTfE/H7PovmXj+sZ0=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Headers/LOADER13.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5AzRZI++ViY5hlSyYJTCToPaLZM=
+			vQOowuQEhiuEiUKnu0vLlGLlfGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			hLRi+P75PL0gMNTe++JSEBpRcJEwoVIXBgD1eyJncxo=
+			ZRkI1bWGjoQBsTi5mbm+WkdeYIv0FjI4M4JKg+rPajM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Info.plist</key>
@@ -239,33 +269,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n4zu7xTjMRrcs0XCpbUqV5EQFT8=
+			AlVSRy+2fHDXWrv2DemNNdd8dxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PoxuEeHAGUg3bvfgvFw3F91KCBARUFr3aB9v+v7AJzg=
+			7RjGF/EbQyWYPGYOTEGHRx2/uRpNGSrqnEXhpXrAlYQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l2gyYJugPrzgaJTCttTTcedO39s=
+			7dzSEjw5OxxhoQGiETQO92ktu18=
 			</data>
 			<key>hash2</key>
 			<data>
-			dK7lDjR19hLU+Txz1hHkt4ojLd9IeJU62ItaiZ77dw8=
+			v6iKkJPw768rVV433aO+uTTcCi5M9WF+ORnd67W1lno=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nv5Z1tmeePq63eqHvWWfiuvBW7c=
+			33gepWcAgWIuDn+RrYzdMv8bSgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			E51Qydk6h5lOieh+jdtfCa01mXDE9sJmai6rZvL0X64=
+			B1e8eOBpIkfjgrw4NyQuEQRxaoL+4+s3UX0V9dX5xno=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -283,33 +313,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nv5Z1tmeePq63eqHvWWfiuvBW7c=
+			33gepWcAgWIuDn+RrYzdMv8bSgw=
 			</data>
 			<key>hash2</key>
 			<data>
-			E51Qydk6h5lOieh+jdtfCa01mXDE9sJmai6rZvL0X64=
+			B1e8eOBpIkfjgrw4NyQuEQRxaoL+4+s3UX0V9dX5xno=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			l2gyYJugPrzgaJTCttTTcedO39s=
+			7dzSEjw5OxxhoQGiETQO92ktu18=
 			</data>
 			<key>hash2</key>
 			<data>
-			dK7lDjR19hLU+Txz1hHkt4ojLd9IeJU62ItaiZ77dw8=
+			v6iKkJPw768rVV433aO+uTTcCi5M9WF+ORnd67W1lno=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ecxYXvi2JzeWwTH2ntLOdAAyHPk=
+			U8RGGMz3bO/xP0YpCqaJBp1TH7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			50CEL5ejuK24/ty7Aj7I8pDnXzbTGfXCzm2W1RnyAVQ=
+			YGV/wVOz7lvhoGcUBkEDlIyleFBWgV6ZNYu0Am9ZXGE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/LOADER13.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -327,11 +357,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ecxYXvi2JzeWwTH2ntLOdAAyHPk=
+			U8RGGMz3bO/xP0YpCqaJBp1TH7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			50CEL5ejuK24/ty7Aj7I8pDnXzbTGfXCzm2W1RnyAVQ=
+			YGV/wVOz7lvhoGcUBkEDlIyleFBWgV6ZNYu0Am9ZXGE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/LOADER13.framework/Modules/module.modulemap</key>

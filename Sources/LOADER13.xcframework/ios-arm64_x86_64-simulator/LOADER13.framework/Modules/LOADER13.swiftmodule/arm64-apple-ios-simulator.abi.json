@@ -58,13 +58,6 @@
       },
       {
         "kind": "Import",
-        "name": "FirebaseCore",
-        "printedName": "FirebaseCore",
-        "declKind": "Import",
-        "moduleName": "LOADER13"
-      },
-      {
-        "kind": "Import",
         "name": "AppsFlyerLib",
         "printedName": "AppsFlyerLib",
         "declKind": "Import",
@@ -74,6 +67,13 @@
         "kind": "Import",
         "name": "OneSignalFramework",
         "printedName": "OneSignalFramework",
+        "declKind": "Import",
+        "moduleName": "LOADER13"
+      },
+      {
+        "kind": "Import",
+        "name": "Masonry",
+        "printedName": "Masonry",
         "declKind": "Import",
         "moduleName": "LOADER13"
       },
@@ -137,7 +137,6 @@
         "usr": "c:@M@LOADER13@objc(cs)LOADER13",
         "mangledName": "$s8LOADER13AAC",
         "moduleName": "LOADER13",
-        "objc_name": "LOADER13",
         "declAttributes": [
           "AccessControl",
           "ObjC"
@@ -385,63 +384,63 @@
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 543,
+      "offset": 522,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 689,
+      "offset": 668,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "StringLiteral",
-      "offset": 650,
+      "offset": 629,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 736,
+      "offset": 715,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "StringLiteral",
-      "offset": 711,
+      "offset": 690,
       "length": 9,
       "value": "\"AdShows\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 1093,
+      "offset": 1111,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 1220,
+      "offset": 1238,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 3410,
+      "offset": 4002,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
       "kind": "BooleanLiteral",
-      "offset": 6112,
+      "offset": 6346,
       "length": 5,
       "value": "false"
     },
@@ -455,14 +454,14 @@
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/Analytics.swift",
       "kind": "Dictionary",
-      "offset": 420,
+      "offset": 417,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/Analytics.swift",
       "kind": "StringLiteral",
-      "offset": 313,
+      "offset": 314,
       "length": 9,
       "value": "\"LOADER13.Analytics\""
     }

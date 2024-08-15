@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <LOADER13/Analytics_gsome.h>
 
 //! Project version number for utility12.
 FOUNDATION_EXPORT double utility12VersionNumber;
