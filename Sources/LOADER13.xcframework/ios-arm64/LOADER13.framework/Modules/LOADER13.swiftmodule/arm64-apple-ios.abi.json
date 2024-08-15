@@ -445,6 +445,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/LOADER13.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7723,
+      "length": 1,
+      "value": "0"
+    },
+    {
       "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/AppsFlyerLibDelegateWrapper.swift",
       "kind": "StringLiteral",
       "offset": 134,
@@ -464,6 +471,20 @@
       "offset": 314,
       "length": 9,
       "value": "\"LOADER13.Analytics\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/Placeholder.swift",
+      "kind": "StringLiteral",
+      "offset": 283,
+      "length": 11,
+      "value": "\"animation\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/Placeholder.swift",
+      "kind": "StringLiteral",
+      "offset": 304,
+      "length": 6,
+      "value": "\"json\""
     }
   ]
 }
