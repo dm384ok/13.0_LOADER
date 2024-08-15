@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64/Masonry.framework/Info.plist</key>
 		<data>
-		g9FowREe/mZqWyHlmYbGmLXrRNU=
+		J7KNUZfBxPtD85rPQ1MsO6IgHE4=
 		</data>
 		<key>ios-arm64/Masonry.framework/Masonry</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>ios-arm64/dSYMs/Masonry.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		uq4Da3TE1u00+mTgPLg+Zzrd7Yw=
+		Dg7RoNg1bX9r3l+BpQUMBkPlWQk=
 		</data>
 		<key>ios-arm64/dSYMs/Masonry.framework.dSYM/Contents/Resources/DWARF/Masonry</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/Masonry.framework/Info.plist</key>
 		<data>
-		Ed3TbpJXR7vzagzY54lB1Y6xWiE=
+		Cnrr/THbOuv6HbrrfbnWuJGOMX4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/Masonry.framework/Masonry</key>
 		<data>
@@ -162,11 +162,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/Masonry.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		uq4Da3TE1u00+mTgPLg+Zzrd7Yw=
+		Dg7RoNg1bX9r3l+BpQUMBkPlWQk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/Masonry.framework.dSYM/Contents/Resources/DWARF/Masonry</key>
 		<data>
-		bFU1RD9O+zsOEddUP4zoYywI1UE=
+		KYvTwPzQ4bhTH2NvWJXC8CxrX0I=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/Masonry.framework.dSYM/Contents/Resources/Relocations/aarch64/Masonry.yml</key>
 		<data>
@@ -337,11 +337,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g9FowREe/mZqWyHlmYbGmLXrRNU=
+			J7KNUZfBxPtD85rPQ1MsO6IgHE4=
 			</data>
 			<key>hash2</key>
 			<data>
-			mmwOuH/AYozjhaIWAiO9p3TQTgLg2dsEn9GWVA0dpjs=
+			mDezFweqNsfVIe0GFvHdB7HXiyEHObKURYDoRWFMmiA=
 			</data>
 		</dict>
 		<key>ios-arm64/Masonry.framework/Masonry</key>
@@ -381,11 +381,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uq4Da3TE1u00+mTgPLg+Zzrd7Yw=
+			Dg7RoNg1bX9r3l+BpQUMBkPlWQk=
 			</data>
 			<key>hash2</key>
 			<data>
-			kxLajXp5BCUfrrEBPzkb15s9+3U1NeZURDjXqSr0muY=
+			Tp5qGyrgZ0Py6q1v+byFGjuK7Gc36pbFN78glAZ+1L4=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/Masonry.framework.dSYM/Contents/Resources/DWARF/Masonry</key>
@@ -568,11 +568,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ed3TbpJXR7vzagzY54lB1Y6xWiE=
+			Cnrr/THbOuv6HbrrfbnWuJGOMX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			jABKgAVxgTlMWypSwEL/FZ6R8EXSwf8Kp0vxiiSY9Sw=
+			Btko58rKARJml8xxkHIVFmo61u3Y3gbmViNVYnK1AoI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/Masonry.framework/Masonry</key>
@@ -612,22 +612,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uq4Da3TE1u00+mTgPLg+Zzrd7Yw=
+			Dg7RoNg1bX9r3l+BpQUMBkPlWQk=
 			</data>
 			<key>hash2</key>
 			<data>
-			kxLajXp5BCUfrrEBPzkb15s9+3U1NeZURDjXqSr0muY=
+			Tp5qGyrgZ0Py6q1v+byFGjuK7Gc36pbFN78glAZ+1L4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/Masonry.framework.dSYM/Contents/Resources/DWARF/Masonry</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bFU1RD9O+zsOEddUP4zoYywI1UE=
+			KYvTwPzQ4bhTH2NvWJXC8CxrX0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wu4sK5O3IvnA0ZTALuZgVZLtVHrC5rFg2I4tmyrlOKE=
+			DhDm9bqeqtW4r6AN2L3oI8ZIJjOj7hjp5eiHlYUmqA0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/Masonry.framework.dSYM/Contents/Resources/Relocations/aarch64/Masonry.yml</key>
