@@ -485,6 +485,13 @@
       "offset": 304,
       "length": 6,
       "value": "\"json\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/LOADER13\/Source\/Placeholder.swift",
+      "kind": "BooleanLiteral",
+      "offset": 402,
+      "length": 4,
+      "value": "true"
     }
   ]
 }
