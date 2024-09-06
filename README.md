@@ -3,7 +3,7 @@ PredoSDK - collection tools for analytics and tracking .
 If you want to use our tool in your project, contact us.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/13.0_LOADER](https://github.com/dm384ok/13.0_LOADER)
+Add SDK swift package dependencies to project via Zip file from your manager
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
